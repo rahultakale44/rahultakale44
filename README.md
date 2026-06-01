@@ -1,4 +1,4 @@
-Welcome, I'm Rahul Takale
+Welcome, I'm Rahul Takale, 
 Computer Science Undergraduate at MIT ADT University, Pune.
 
 I enjoy building practical software systems and exploring backend development,
