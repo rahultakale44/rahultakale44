@@ -12,7 +12,7 @@ What I'm Currently Working On
 - Data Structures and Algorithms for Placements
 
 
-Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
 Languages
 
