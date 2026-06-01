@@ -1,6 +1,5 @@
 Welcome, I'm Rahul Takale, 
-Computer Science Undergraduate at MIT ADT University, Pune.
-
+Computer Science Undergraduate in Artificial Intelligence and Analytics at MIT ADT University, Pune.
 I enjoy building practical software systems and exploring backend development,
 cloud technologies, and data-driven applications.
 
@@ -40,19 +39,21 @@ Tools & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
+Exploring AI & Emerging Technologies
 
-GitHub Stats
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahultakale44&show_icons=true&theme=github_dark)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahultakale44&layout=compact&theme=github_dark)
+![LLM](https://img.shields.io/badge/LLM-purple?style=for-the-badge)
 
-<!--
-**rahultakale44/rahultakale44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![RAG](https://img.shields.io/badge/RAG-green?style=for-the-badge)
 
-Here are some ideas to get you started:
+![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
 
+![Vector DB](https://img.shields.io/badge/Vector_DB-black?style=for-the-badge)
+
+![Graph DB](https://img.shields.io/badge/Graph_DB-darkgreen?style=for-the-badge)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
