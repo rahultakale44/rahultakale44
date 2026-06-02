@@ -1,8 +1,9 @@
 
-<h2>Rahul Takale</h2>
--------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>Rahul Takale</h1>
+_________________________________________________________________________________________________________________________________________________________
 
-Welcome, I'm Rahul Takale, 
+<h2>Welcome, I'm Rahul Takale,</h2>
+
 Computer Science Undergraduate in Artificial Intelligence and Analytics at MIT ADT University, Pune.
 I enjoy building practical software systems and exploring backend development, cloud technologies, and data-driven applications.
 
