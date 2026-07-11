@@ -12,17 +12,17 @@ ________________________________________________________________________________
 Computer Science Undergraduate specializing in Artificial Intelligence and Analytics at MIT ADT University, Pune.
 I enjoy building practical software systems and exploring backend development, cloud technologies, AI-powered applications and data-driven solutions.
 
-<p align="center">
+<p align="left">
   <a href="https://rahul-portfolio-phi-six.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+    🌐 Portfolio
   </a>
-
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rahul-takale-916665279/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    💼 LinkedIn
   </a>
-
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="mailto:rahultakale698@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    ✉️ Email
   </a>
 </p>
 
