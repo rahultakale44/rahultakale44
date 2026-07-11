@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="./assets/indradhanu-banner.jpeg"
+    alt="Rahul Takale at Indradhanu Grand Finale"
+    width="100%"
+  />
+</p>
 _________________________________________________________________________________________________________________________________________________
 
 <h2>Welcome, I'm Rahul Takale </h2>
