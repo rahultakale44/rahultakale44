@@ -74,29 +74,27 @@ I enjoy building practical software systems and exploring backend development, c
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">📊 GitHub Overview</h2>
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=rahultakale44&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-/>
+<a href="https://github.com/rahultakale44?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Public_Repositories-View_Projects-238636?style=for-the-badge&logo=github&logoColor=white"
+    alt="Public repositories"
+  />
+</a>
+
+<a href="https://github.com/rahultakale44?tab=followers">
+  <img
+    src="https://img.shields.io/github/followers/rahultakale44?label=Followers&style=for-the-badge&logo=github"
+    alt="GitHub followers"
+  />
+</a>
 
 <img
-  width="49%"
-  src="https://streak-stats.demolab.com?user=rahultakale44&theme=github-dark-blue&hide_border=true"
-/>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahultakale44&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=238636&style=for-the-badge"
+  alt="Profile views"
 />
 
 </div>
@@ -109,37 +107,49 @@ I enjoy building practical software systems and exploring backend development, c
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=rahultakale44&theme=github-compact&hide_border=true&area=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rahultakale44&bg_color=0d1117&color=ffffff&line=2ea043&point=8b949e&area=true&hide_border=true"
+  alt="Rahul Takale contribution graph"
 />
 
 </div>
 
 ---
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+<h2 align="center">🚀 Featured Work</h2>
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=rahultakale44&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
-/>
+<a href="https://github.com/rahultakale44/shopsphere-ecommerce">
+  <img
+    src="https://img.shields.io/badge/ShopSphere-Java_Full_Stack-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"
+    alt="ShopSphere"
+  />
+</a>
+
+<a href="https://github.com/rahultakale44/campuscare-frontend">
+  <img
+    src="https://img.shields.io/badge/CampusCare-Smart_Campus_Platform-61DAFB?style=for-the-badge&logo=react&logoColor=black"
+    alt="CampusCare"
+  />
+</a>
+
+<a href="https://github.com/rahultakale44/ai-fitness-coach">
+  <img
+    src="https://img.shields.io/badge/AI_Fitness_Coach-Computer_Vision-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="AI Fitness Coach"
+  />
+</a>
+
+<a href="https://github.com/rahultakale44/rahul-portfolio">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Live_Website-000000?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
 
 </div>
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-![Followers](https://img.shields.io/github/followers/rahultakale44?label=Followers&style=for-the-badge&logo=github)
-
-![Stars](https://img.shields.io/github/stars/rahultakale44?label=Stars&style=for-the-badge&logo=github)
-
-</div>
-
----
-
-<h3 align="center">
-  Building. Learning. Improving. 🚀
+<h3 align="center">Building. Learning. Improving. 🚀</h3>
 </h3>
