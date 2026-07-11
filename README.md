@@ -5,9 +5,9 @@
     width="100%"
   />
 </p>
-_____________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________
 
-<h2>Welcome, I'm Rahul Takale </h2>
+<h2>Welcome, I'm Rahul Takale 😎</h2>
 
 Computer Science Undergraduate specializing in Artificial Intelligence and Analytics at MIT ADT University, Pune.
 
@@ -122,7 +122,7 @@ I enjoy building practical software systems and exploring backend development, c
 
 ---
 
-<h2 align="center">🚀 Featured Work</h2>
+<h2 align="center"> Featured Work</h2>
 
 <div align="center">
 
@@ -158,5 +158,5 @@ I enjoy building practical software systems and exploring backend development, c
 
 ---
 
-<h3 align="center">Building. Learning. Improving. 🚀</h3>
+<h3 align="center">Building. Learning. Improving </h3>
 </h3>
