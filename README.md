@@ -10,7 +10,6 @@ ________________________________________________________________________________
 <h2>Welcome, I'm Rahul Takale 😎</h2>
 
 Computer Science Undergraduate specializing in Artificial Intelligence and Analytics at MIT ADT University, Pune.
-
 I enjoy building practical software systems and exploring backend development, cloud technologies, AI-powered applications and data-driven solutions.
 
 [Portfolio](https://rahul-portfolio-phi-six.vercel.app/) •
