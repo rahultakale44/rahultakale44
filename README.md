@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./ach-indradhanu-1s.jpeg"
+    src="./Recheck.jpg"
     alt="Rahul Takale at Indradhanu Grand Finale"
     width="100%"
   />
