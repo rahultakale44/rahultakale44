@@ -13,16 +13,16 @@ Computer Science Undergraduate specializing in Artificial Intelligence and Analy
 I enjoy building practical software systems and exploring backend development, cloud technologies, AI-powered applications and data-driven solutions.
 
 <p align="left">
-  <a href="https://rahul-portfolio-phi-six.vercel.app/">
-    🌐 Portfolio
+  <a href="https://rahul-portfolio-phi-six.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rahul-takale-916665279/">
-    💼 LinkedIn
+  
+  <a href="https://www.linkedin.com/in/rahultakale/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  
   <a href="mailto:rahultakale698@gmail.com">
-    ✉️ Email
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
