@@ -117,6 +117,53 @@ I enjoy building practical software systems and exploring backend development, c
 
 ---
 
+## 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahultakale44&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Rahul Takale's Most Used Languages"
+  />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=rahultakale44&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Rahul Takale's GitHub Statistics"
+  />
+
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahultakale44&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Rahul Takale's Most Used Languages"
+  />
+</p>
+
+---
+
+## 💻 Development Overview
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahultakale44&layout=compact&theme=transparent&hide_border=true&title_color=2ea44f&text_color=c9d1d9&langs_count=8"
+    alt="Most Used Languages"
+  />
+
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=rahultakale44&show_icons=true&theme=transparent&hide_border=true&title_color=2ea44f&text_color=c9d1d9&icon_color=2ea44f&include_all_commits=true"
+    alt="GitHub Statistics"
+  />
+</p>
+
+---
+
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
