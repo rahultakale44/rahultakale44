@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0:0D1117,50:0969DA,100:00C896&text=Rahul%20Takale&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:12002F,35:5B21B6,70:9333EA,100:EC4899&text=Rahul%20Takale&fontSize=50&fontColor=FFFFFF&fontAlignY=43&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=64&animation=fadeIn&stroke=A855F7&strokeWidth=2"
+  alt="Rahul Takale Header"
+/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=850&lines=Java+Backend+%26+Full-Stack+Developer;Building+Spring+Boot+%2B+React+Applications;Exploring+Generative+AI%2C+LLMs+and+Computer+Vision;Learning%2C+Building+and+Improving+Every+Day" alt="Typing SVG" />
 
