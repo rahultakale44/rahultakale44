@@ -2,7 +2,7 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:12002F,35:5B21B6,70:9333EA,100:EC4899&text=Rahul%20Takale&fontSize=50&fontColor=FFFFFF&fontAlignY=43&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=64&animation=fadeIn&stroke=A855F7&strokeWidth=2"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0F172A,70:1D4ED8,100:0891B2&text=Rahul%20Takale&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descAlignY=59&descSize=18&animation=fadeIn"
   alt="Rahul Takale Header"
 />
 
