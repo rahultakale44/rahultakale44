@@ -6,21 +6,25 @@
 
 <br/>
 
-<a href="https://rahul-portfolio-phi-six.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00C896?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<div align="center">
+
+<a href="https://rahul-portfolio-phi-six.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-00C896?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/rahul-takale-916665279/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/rahultakale/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:rahultakale698@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/rahultakale44?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/rahultakale44?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</div>
 <img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=238636&style=for-the-badge" alt="Profile views" />
 
 </div>
@@ -370,8 +374,6 @@ I am open to:
 </a>
 
 <br/><br/>
-
-### Building. Learning. Improving. 🚀
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:0969DA,100:00C896" />
 
