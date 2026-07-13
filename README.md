@@ -21,9 +21,6 @@
 <a href="https://github.com/rahultakale44?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=238636&style=for-the-badge" alt="Profile views" />
 
 </div>
