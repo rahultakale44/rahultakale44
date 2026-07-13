@@ -7,8 +7,6 @@
 />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=850&lines=Java+Backend+%26+Full-Stack+Developer;Building+Spring+Boot+%2B+React+Applications;Exploring+Generative+AI%2C+LLMs+and+Computer+Vision;Learning%2C+Building+and+Improving+Every+Day" alt="Typing SVG" />
 
-<br/>
-
 <div align="center">
 
 <a href="https://rahul-portfolio-phi-six.vercel.app/" target="_blank">
