@@ -267,19 +267,33 @@ My primary focus is **Java backend and full-stack development**, while I continu
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahultakale44&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Rahul's GitHub stats" />
+<img
+  width="49%"
+  src="https://github-stats-extended.vercel.app/api?username=rahultakale44&show_icons=true&theme=github_dark&hide_border=true"
+  alt="Rahul Takale GitHub Stats"
+/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahultakale44&theme=github-dark-blue&hide_border=true" alt="Rahul's GitHub streak" />
+<img
+  width="49%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=rahultakale44&theme=github-dark-blue&hide_border=true"
+  alt="Rahul Takale GitHub Streak"
+/>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahultakale44&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+<img
+  width="49%"
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=rahultakale44&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  alt="Rahul Takale Most Used Languages"
+/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahultakale44&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahultakale44&theme=github_dark&utcOffset=5.5"
+  alt="Rahul Takale Productive Time"
+/>
 
 </div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -295,15 +309,15 @@ My primary focus is **Java backend and full-stack development**, while I continu
 
 <div align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/RahulTakale/">
   <img src="https://img.shields.io/badge/LeetCode-DSA_Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<a href="https://codeforces.com/profile/scholar44/">
+  <img src="https://img.shields.io/badge/Codeforces-Competitive_Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
+<a href="[https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/profile/rahultaknp7y)">
   <img src="https://img.shields.io/badge/GeeksforGeeks-Problem_Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
