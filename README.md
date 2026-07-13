@@ -5,8 +5,6 @@
     width="100%"
   />
 </p>
-________________________________________________________________________________________________________________________________________________
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0969DA,100:00C896&text=Rahul%20Takale&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Explorer%20%7C%20Problem%20Solver&descAlignY=59&descSize=18&animation=fadeIn" />
