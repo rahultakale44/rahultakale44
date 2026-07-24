@@ -1,10 +1,11 @@
 <div align="center">
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0F172A,70:1D4ED8,100:0891B2&text=Rahul%20Takale&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Final%20Year&descAlignY=59&descSize=18&animation=fadeIn"
-  alt="Rahul Takale Header"
-/>
+<p align="center">
+  <img
+    src="./Recheck.jpg"
+    alt="Rahul Takale at Indradhanu Grand Finale"
+    width="100%"
+  />
+</p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=850&lines=Java+Backend+%26+Full-Stack+Developer;Building+Spring+Boot+%2B+React+Applications;Exploring+Generative+AI%2C+LLMs+and+Computer+Vision;Learning%2C+Building+and+Improving+Every+Day" alt="Typing SVG" />
 
 <div align="center">
@@ -63,16 +64,7 @@ const rahul = {
     goal: "Build reliable software systems that solve real-world problems"
 };
 ```
-<p align="center">
-  <img
-    src="./Recheck.jpg"
-    alt="Rahul Takale at Indradhanu Grand Finale"
-    width="100%"
-  />
-</p>
-
 I am a Computer Science undergraduate who enjoys turning ideas into practical software products.
-
 My primary focus is **Java backend and full-stack development**, while I continue exploring **Generative AI, cloud computing, computer vision and data analytics**. I learn best by building projects, solving problems and improving systems through continuous experimentation.
 
 ---
@@ -378,11 +370,5 @@ I am open to:
 
 <h3 align="center">Building. Learning. Improving </h3>
 </h3>
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0F172A,70:1D4ED8,100:0891B2&text=Rahul%20Takale&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descAlignY=59&descSize=18&animation=fadeIn"
-  alt="Rahul Takale Header"
-/>
 
 </div>
