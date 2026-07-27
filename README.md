@@ -65,6 +65,8 @@ const rahul = {
 
     goal: "Build reliable software systems that solve real-world problems"
 };
+```
+
 I am a Computer Science undergraduate who enjoys turning ideas into practical software products.My primary focus is Java backend and full-stack development, while I continue exploring Generative AI, cloud computing, computer vision and data analytics. I learn best by building projects, solving problems and improving systems through continuous experimentation.
 
 🚀 What I Am Currently Building
