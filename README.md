@@ -25,165 +25,57 @@ alt="Typing introduction"
 
 </div>
 
-👨‍💻 About Me
-
-I am a B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Analytics at MIT ADT University, Pune.
-
-My primary focus is Java backend and full-stack development using Spring Boot, React and relational databases. I also build practical applications using Generative AI, Retrieval-Augmented Generation, computer vision and cloud technologies.
+👨‍💻 Who Am I?
 
 const rahul = {
-  location: "Pune, Maharashtra, India",
-  graduation: 2027,
-  primaryFocus: ["Java", "Spring Boot", "React", "REST APIs"],
-  exploring: ["Generative AI", "RAG", "Computer Vision", "AWS"],
-  goal: "Build reliable products that solve real-world problems"
+    name: "Rahul Takale",
+    location: "Pune, Maharashtra, India",
+
+    education: {
+        degree: "B.Tech in Computer Science Engineering",
+        specialization: "Artificial Intelligence and Analytics",
+        university: "MIT ADT University, Pune",
+        graduation: 2027
+    },
+
+    roles: [
+        "Java Backend Developer",
+        "Full-Stack Developer",
+        "AI and Cloud Enthusiast"
+    ],
+
+    currentFocus: [
+        "Java and Spring Boot",
+        "React.js and REST APIs",
+        "Data Structures and Algorithms",
+        "Generative AI and LLM Applications",
+        "Cloud Computing and AWS"
+    ],
+
+    goal: "Build reliable software systems that solve real-world problems"
 };
 
-🚀 Current Focus
+I am a Computer Science undergraduate who enjoys turning ideas into practical software products.My primary focus is Java backend and full-stack development, while I continue exploring Generative AI, cloud computing, computer vision and data analytics. I learn best by building projects, solving problems and improving systems through continuous experimentation.
 
-Building production-oriented applications using Java, Spring Boot and MySQL
+🚀 What I Am Currently Building
 
-Developing responsive interfaces using React.js
+Developing production-oriented applications using Java, Spring Boot and MySQL
 
-Designing secure REST APIs with Spring Security and JWT
+Creating responsive user interfaces using React.js
 
-Learning LLMs, LangChain, RAG and vector databases
+Designing and testing secure REST APIs
 
 Practising Data Structures and Algorithms for placements
 
-Exploring AWS, Linux, Docker and deployment fundamentals
+Exploring LLMs, RAG, AI agents and computer vision
 
-🛠️ Technical Skills
+Learning AWS, Linux and deployment fundamentals
+
+Improving Git, GitHub and collaborative development workflows
+
+🏆 Achievement Showcase
 
 <div align="center">
-
-Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,r&perline=5" alt="Programming languages"/>
-
-Backend and Frontend
-
-<img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs,express,react,vite,html,css&perline=9" alt="Backend and frontend technologies"/>
-
-Databases and Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,firebase,aws,docker,git,github,linux,postman,vscode&perline=12" alt="Databases and developer tools"/>
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/RAG-00897B?style=flat-square" alt="RAG"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-</p>
-
-🌟 Featured Projects
-
-🩺 MedScope — AI-Powered Medical Document Assistant
-
-A Generative AI application that helps users upload, organize and understand medical documents through contextual question answering.
-
-Uploads and processes medical reports and healthcare documents
-
-Retrieves relevant document passages before generating responses
-
-Uses a RAG pipeline to provide document-grounded answers
-
-Includes document library, workspace search and conversational interface
-
-Designed with clear disclaimers and responsible AI boundaries
-
-Tech Stack: Python, FastAPI, React.js, LangChain, Vector Database, RAG, LLM APIs
-
-Repository will be linked after the project is finalized.
-
-🛒 ShopSphere — Full-Stack E-commerce Platform
-
-A full-stack e-commerce application with secure authentication, product management and complete order workflows.
-
-Registration and login using Spring Security, BCrypt and JWT
-
-Product catalogue, cart, checkout and order management
-
-Role-based access for customers and administrators
-
-Razorpay payment integration
-
-Responsive React frontend connected to Spring Boot REST APIs
-
-Tech Stack: Java, Spring Boot, Spring Security, React.js, MySQL, JWT, Razorpay
-
-
-
-🏫 CampusCare — Smart Campus Complaint Platform
-
-A complaint-management platform for reporting, tracking and resolving campus issues.
-
-Student complaint submission and status tracking
-
-Personal complaint-history dashboard
-
-Pending, in-progress and resolved status workflow
-
-Secure authentication and role-based authorization
-
-Administrative complaint monitoring
-
-Tech Stack: Java, Spring Boot, React.js, MySQL, Spring Security, JWT
-
-
-
-🏋️ AI Fitness Coach — Real-Time Posture Detection
-
-A computer-vision application that monitors exercise posture and provides real-time feedback.
-
-Detects body landmarks using MediaPipe
-
-Evaluates exercise posture through webcam frames
-
-Supports squats, push-ups and curls
-
-Provides feedback through a browser-based interface
-
-Tech Stack: Python, OpenCV, MediaPipe, Flask, JavaScript
-
-
-
-🌱 AI and IoT-Based Aeroponics System
-
-A smart-agriculture system for monitoring and automating an aeroponics environment.
-
-Real-time environmental sensor monitoring
-
-Automated control of growing conditions
-
-AI-assisted plant monitoring and decision support
-
-Interactive dashboard for system visualization
-
-Designed to improve resource and water efficiency
-
-Tech Stack: React, TypeScript, Node.js, IoT Sensors, AI Integration
-
-🔐 AuditX — AI and Blockchain Fraud Prevention
-
-A fraud-detection prototype combining machine learning with blockchain-based transaction logging.
-
-Isolation Forest-based anomaly detection
-
-Blockchain-backed audit trail
-
-Smart-contract validation rules
-
-Dashboard for suspicious-activity review
-
-Top 7 project in the Blockchain category at the MIT ADT AI Grand Challenge
-
-Tech Stack: React, FastAPI, Python, Firebase, Solidity
-
-🏆 Achievements
 
 Achievement
 
@@ -203,38 +95,188 @@ Top 180 teams for CarbonVision
 
 🧠 Kumbathon 2026
 
-Built an AI-based crowd-surveillance prototype
+Developed an AI-based crowd surveillance prototype
 
 🥗 UNESCO Youth Hackathon 2025
 
-Developed NutriCheck for responsible food consumption
+Built NutriCheck for responsible food consumption
 
 ☁️ Google Cloud Arcade 2024
 
 Achieved the Premium Plus milestone
 
-💼 Experience
+</div>
 
-Development Intern — Innobytes
+🛠️ Tech Arsenal
+
+Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,r" />
+</p>
+
+Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs,express" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript,vite" />
+</p>
+
+Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,firebase" />
+</p>
+
+AI, Machine Learning and Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Applications-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG_Systems-00897B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+Cloud, Deployment and Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,linux,docker,postman,vscode" />
+</p>
+
+🌟 Featured Projects
+
+🛒 ShopSphere — Full-Stack E-commerce Platform
+
+A modern e-commerce platform inspired by large-scale online shopping applications.
+
+Secure registration and login using Spring Security, BCrypt and JWT
+
+Product browsing, product details and category-based management
+
+Shopping cart, checkout and order management workflows
+
+Role-based access for customers and administrators
+
+Razorpay payment gateway integration
+
+Responsive frontend developed using React.js
+
+Tech Stack: Java, Spring Boot, Spring Security, React.js, MySQL, JWT, Razorpay
+
+
+
+🏫 CampusCare — Smart Campus Complaint Platform
+
+A full-stack complaint management system that improves the reporting and resolution of campus issues.
+
+Students can submit and track complaints
+
+Personal dashboard for complaint history
+
+Status workflow for pending, in-progress and resolved complaints
+
+Secure authentication and role-based authorization
+
+Administrative complaint monitoring and status management
+
+Tech Stack: Java, Spring Boot, React.js, MySQL, Spring Security, JWT
+
+
+
+🏋️ AI Fitness Coach — Real-Time Posture Detection
+
+An AI-powered fitness application that analyzes exercise posture using computer vision.
+
+Detects human body landmarks in real time
+
+Provides exercise posture feedback
+
+Supports fitness movements such as squats, push-ups and curls
+
+Processes webcam frames through a web interface
+
+Designed to reduce incorrect exercise form
+
+Tech Stack: Python, OpenCV, MediaPipe, Flask, JavaScript
+
+
+
+🌱 AI and IoT-Based Aeroponics System
+
+A smart agriculture system designed to monitor and automate an aeroponics environment.
+
+Real-time monitoring of environmental sensor data
+
+Automated control of the growing environment
+
+AI-assisted plant monitoring and decision support
+
+Interactive dashboard for system visualization
+
+Designed to support efficient water usage
+
+Tech Stack: React, TypeScript, Node.js, IoT Sensors, AI Integration
+
+🔐 AuditX — AI and Blockchain Fraud Prevention
+
+A fraud-detection prototype that combines machine learning with blockchain-based transaction logging.
+
+Isolation Forest-based anomaly and risk detection
+
+Blockchain-backed audit trail
+
+Smart contract-based validation rules
+
+Dashboard for reviewing suspicious activity
+
+Developed for the MIT ADT AI Grand Challenge
+
+Tech Stack: React, FastAPI, Python, Firebase, Solidity
+
+💼 Professional Journey
+
+💻 Development Intern — Innobytes
 
 Developed responsive web interfaces for business-focused platforms
 
-Worked on reusable components, integration, testing and debugging
+Worked on reusable frontend components and page layouts
 
-Contributed to the BizGrowth and InnoHubs projects
+Supported testing, debugging and performance improvements
 
-Technical Intern — Red Crest Charitable Trust
+Contributed to BizGrowth and InnoHubs development activities
+
+🌾 Technical Intern — Red Crest Charitable Trust
 
 Worked on a low-cost IoT monitoring solution for smart agriculture
 
-Assisted with sensor-data analysis, system testing and documentation
+Assisted with sensor data analysis and system testing
 
-Campus Ambassador — Parikshak.ai
+Contributed to technical documentation and performance evaluation
+
+📣 Campus Ambassador — Parikshak.ai
+
+Participated in the Growth Partner Program
 
 Supported community engagement and platform awareness
 
-Earned Growth Partner recognition
-
+Earned the Growth Partner recognition badge
 📊 GitHub Activity
 
 <div align="center">
