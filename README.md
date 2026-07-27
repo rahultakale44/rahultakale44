@@ -29,7 +29,7 @@
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=238636&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=238636&style=flat-square" alt="Profile views"/>
 
 </div>
 
