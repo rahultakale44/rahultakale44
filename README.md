@@ -1,4 +1,5 @@
 <div align="center">
+
 <p align="center">
   <img
     src="./Recheck.jpg"
@@ -67,67 +68,50 @@ const rahul = {
 };
 ```
 
-I am a Computer Science undergraduate who enjoys turning ideas into practical software products.My primary focus is Java backend and full-stack development, while I continue exploring Generative AI, cloud computing, computer vision and data analytics. I learn best by building projects, solving problems and improving systems through continuous experimentation.
+I am a Computer Science undergraduate who enjoys turning ideas into practical software products.
 
-🚀 What I Am Currently Building
+My primary focus is **Java backend and full-stack development**, while I continue exploring **Generative AI, cloud computing, computer vision and data analytics**. I learn best by building projects, solving problems and improving systems through continuous experimentation.
 
-Developing production-oriented applications using Java, Spring Boot and MySQL
+---
 
-Creating responsive user interfaces using React.js
+## 🚀 What I Am Currently Building
 
-Designing and testing secure REST APIs
+* Developing production-oriented applications using **Java, Spring Boot and MySQL**
+* Creating responsive user interfaces using **React.js**
+* Designing and testing secure **REST APIs**
+* Practising **Data Structures and Algorithms** for placements
+* Exploring **LLMs, RAG, AI agents and computer vision**
+* Learning **AWS, Linux and deployment fundamentals**
+* Improving Git, GitHub and collaborative development workflows
 
-Practising Data Structures and Algorithms for placements
+---
 
-Exploring LLMs, RAG, AI agents and computer vision
-
-Learning AWS, Linux and deployment fundamentals
-
-Improving Git, GitHub and collaborative development workflows
-
-🏆 Achievement Showcase
+## 🏆 Achievement Showcase
 
 <div align="center">
 
-Achievement
-
-Recognition
-
-🌱 Indradhanu International Grand Challenge
-
-Finalist for an AI and IoT-based Aeroponics System
-
-🔐 MIT ADT AI Grand Challenge
-
-Top 7 in the Blockchain category for AuditX
-
-🌍 VIT Pune PRISM Sociothon
-
-Top 180 teams for CarbonVision
-
-🧠 Kumbathon 2026
-
-Developed an AI-based crowd surveillance prototype
-
-🥗 UNESCO Youth Hackathon 2025
-
-Built NutriCheck for responsible food consumption
-
-☁️ Google Cloud Arcade 2024
-
-Achieved the Premium Plus milestone
+| Achievement | Recognition |
+| :--- | :--- |
+| 🌱 **Indradhanu International Grand Challenge** | Finalist for an AI and IoT-based Aeroponics System |
+| 🔐 **MIT ADT AI Grand Challenge** | Top 7 in the Blockchain category for AuditX |
+| 🌍 **VIT Pune PRISM Sociothon** | Top 180 teams for CarbonVision |
+| 🧠 **Kumbathon 2026** | Developed an AI-based crowd surveillance prototype |
+| 🥗 **UNESCO Youth Hackathon 2025** | Built NutriCheck for responsible food consumption |
+| ☁️ **Google Cloud Arcade 2024** | Achieved the Premium Plus milestone |
 
 </div>
 
-🛠️ Tech Arsenal
+---
 
-Programming Languages
+## 🛠️ Tech Arsenal
+
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,r" />
 </p>
 
-Backend Development
+### Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs,express" />
@@ -139,19 +123,19 @@ Backend Development
   <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-Frontend Development
+### Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,javascript,vite" />
 </p>
 
-Databases
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,firebase" />
 </p>
 
-AI, Machine Learning and Data
+### AI, Machine Learning and Data
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
@@ -166,171 +150,180 @@ AI, Machine Learning and Data
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-Cloud, Deployment and Developer Tools
+### Cloud, Deployment and Developer Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,git,github,linux,docker,postman,vscode" />
 </p>
 
-🌟 Featured Projects
+---
 
-🛒 ShopSphere — Full-Stack E-commerce Platform
+## 🌟 Featured Projects
 
-A modern e-commerce platform inspired by large-scale online shopping applications.
+### 🩺 MedScope — AI-Powered Medical Document Assistant
 
-Secure registration and login using Spring Security, BCrypt and JWT
+> A Generative AI application that helps users upload, organize and understand medical documents through contextual question answering.
 
-Product browsing, product details and category-based management
+* Upload and manage medical reports and healthcare documents
+* Ask questions based on uploaded document content
+* Retrieve relevant passages using a **Retrieval-Augmented Generation pipeline**
+* Generate document-grounded responses using an LLM
+* Search documents through a dedicated workspace and document library
+* Designed with responsible AI boundaries and medical disclaimers
 
-Shopping cart, checkout and order management workflows
+**Tech Stack:** Python, FastAPI, React.js, LangChain, Vector Database, RAG, LLM APIs
 
-Role-based access for customers and administrators
+---
 
-Razorpay payment gateway integration
+### 🛒 ShopSphere — Full-Stack E-commerce Platform
 
-Responsive frontend developed using React.js
+> A modern e-commerce platform inspired by large-scale online shopping applications.
 
-Tech Stack: Java, Spring Boot, Spring Security, React.js, MySQL, JWT, Razorpay
+* Secure registration and login using **Spring Security, BCrypt and JWT**
+* Product browsing, product details and category-based management
+* Shopping cart, checkout and order management workflows
+* Role-based access for customers and administrators
+* Razorpay payment gateway integration
+* Responsive frontend developed using React.js
 
+**Tech Stack:** Java, Spring Boot, Spring Security, React.js, MySQL, JWT, Razorpay
 
+[![Repository](https://img.shields.io/badge/View_Repository-ShopSphere-238636?style=for-the-badge&logo=github)](https://github.com/rahultakale44/shopsphere-ecommerce)
 
-🏫 CampusCare — Smart Campus Complaint Platform
+---
 
-A full-stack complaint management system that improves the reporting and resolution of campus issues.
+### 🏫 CampusCare — Smart Campus Complaint Platform
 
-Students can submit and track complaints
+> A full-stack complaint management system that improves the reporting and resolution of campus issues.
 
-Personal dashboard for complaint history
+* Students can submit and track complaints
+* Personal dashboard for complaint history
+* Status workflow for pending, in-progress and resolved complaints
+* Secure authentication and role-based authorization
+* Administrative complaint monitoring and status management
 
-Status workflow for pending, in-progress and resolved complaints
+**Tech Stack:** Java, Spring Boot, React.js, MySQL, Spring Security, JWT
 
-Secure authentication and role-based authorization
+[![Repository](https://img.shields.io/badge/View_Repository-CampusCare-238636?style=for-the-badge&logo=github)](https://github.com/rahultakale44/campuscare-frontend)
 
-Administrative complaint monitoring and status management
+---
 
-Tech Stack: Java, Spring Boot, React.js, MySQL, Spring Security, JWT
+### 🏋️ AI Fitness Coach — Real-Time Posture Detection
 
+> An AI-powered fitness application that analyzes exercise posture using computer vision.
 
+* Detects human body landmarks in real time
+* Provides exercise posture feedback
+* Supports fitness movements such as squats, push-ups and curls
+* Processes webcam frames through a web interface
+* Designed to reduce incorrect exercise form
 
-🏋️ AI Fitness Coach — Real-Time Posture Detection
+**Tech Stack:** Python, OpenCV, MediaPipe, Flask, JavaScript
 
-An AI-powered fitness application that analyzes exercise posture using computer vision.
+[![Repository](https://img.shields.io/badge/View_Repository-AI_Fitness_Coach-238636?style=for-the-badge&logo=github)](https://github.com/rahultakale44/ai-fitness-coach)
 
-Detects human body landmarks in real time
+---
 
-Provides exercise posture feedback
+### 🌱 AI and IoT-Based Aeroponics System
 
-Supports fitness movements such as squats, push-ups and curls
+> A smart agriculture system designed to monitor and automate an aeroponics environment.
 
-Processes webcam frames through a web interface
+* Real-time monitoring of environmental sensor data
+* Automated control of the growing environment
+* AI-assisted plant monitoring and decision support
+* Interactive dashboard for system visualization
+* Designed to support efficient water usage
 
-Designed to reduce incorrect exercise form
+**Tech Stack:** React, TypeScript, Node.js, IoT Sensors, AI Integration
 
-Tech Stack: Python, OpenCV, MediaPipe, Flask, JavaScript
+---
 
+### 🔐 AuditX — AI and Blockchain Fraud Prevention
 
+> A fraud-detection prototype that combines machine learning with blockchain-based transaction logging.
 
-🌱 AI and IoT-Based Aeroponics System
+* Isolation Forest-based anomaly and risk detection
+* Blockchain-backed audit trail
+* Smart contract-based validation rules
+* Dashboard for reviewing suspicious activity
+* Developed for the MIT ADT AI Grand Challenge
 
-A smart agriculture system designed to monitor and automate an aeroponics environment.
+**Tech Stack:** React, FastAPI, Python, Firebase, Solidity
 
-Real-time monitoring of environmental sensor data
+---
 
-Automated control of the growing environment
+## 💼 Professional Journey
 
-AI-assisted plant monitoring and decision support
+### 💻 Development Intern — Innobytes
 
-Interactive dashboard for system visualization
+* Developed responsive web interfaces for business-focused platforms
+* Worked on reusable frontend components and page layouts
+* Supported testing, debugging and performance improvements
+* Contributed to BizGrowth and InnoHubs development activities
 
-Designed to support efficient water usage
+### 🌾 Technical Intern — Red Crest Charitable Trust
 
-Tech Stack: React, TypeScript, Node.js, IoT Sensors, AI Integration
+* Worked on a low-cost IoT monitoring solution for smart agriculture
+* Assisted with sensor data analysis and system testing
+* Contributed to technical documentation and performance evaluation
 
-🔐 AuditX — AI and Blockchain Fraud Prevention
+### 📣 Campus Ambassador — Parikshak.ai
 
-A fraud-detection prototype that combines machine learning with blockchain-based transaction logging.
+* Participated in the Growth Partner Program
+* Supported community engagement and platform awareness
+* Earned the Growth Partner recognition badge
 
-Isolation Forest-based anomaly and risk detection
+---
 
-Blockchain-backed audit trail
-
-Smart contract-based validation rules
-
-Dashboard for reviewing suspicious activity
-
-Developed for the MIT ADT AI Grand Challenge
-
-Tech Stack: React, FastAPI, Python, Firebase, Solidity
-
-💼 Professional Journey
-
-💻 Development Intern — Innobytes
-
-Developed responsive web interfaces for business-focused platforms
-
-Worked on reusable frontend components and page layouts
-
-Supported testing, debugging and performance improvements
-
-Contributed to BizGrowth and InnoHubs development activities
-
-🌾 Technical Intern — Red Crest Charitable Trust
-
-Worked on a low-cost IoT monitoring solution for smart agriculture
-
-Assisted with sensor data analysis and system testing
-
-Contributed to technical documentation and performance evaluation
-
-📣 Campus Ambassador — Parikshak.ai
-
-Participated in the Growth Partner Program
-
-Supported community engagement and platform awareness
-
-Earned the Growth Partner recognition badge
-
-📊 GitHub Battle Stats
+## 📊 GitHub Battle Stats
 
 <div align="center">
 
 <img
-width="49%"
-src="https://github-stats-extended.vercel.app/api?username=rahultakale44&show_icons=true&theme=github_dark&hide_border=true"
-alt="Rahul Takale GitHub Stats"
+  width="49%"
+  src="https://github-stats-extended.vercel.app/api?username=rahultakale44&show_icons=true&theme=github_dark&hide_border=true"
+  alt="Rahul Takale GitHub Stats"
 />
 
 <img
-width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=rahultakale44&theme=github-dark-blue&hide_border=true"
-alt="Rahul Takale GitHub Streak"
+  width="49%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=rahultakale44&theme=github-dark-blue&hide_border=true"
+  alt="Rahul Takale GitHub Streak"
 />
 
 <br/>
 
 <img
-width="49%"
-src="https://github-stats-extended.vercel.app/api/top-langs?username=rahultakale44&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-alt="Rahul Takale Most Used Languages"
+  width="49%"
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=rahultakale44&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  alt="Rahul Takale Most Used Languages"
 />
 
 <img
-width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahultakale44&theme=github_dark&utcOffset=5.5"
-alt="Rahul Takale Productive Time"
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahultakale44&theme=github_dark&utcOffset=5.5"
+  alt="Rahul Takale Productive Time"
 />
 
 </div>
 
-📈 Contribution Activity
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahultakale44&bg_color=0d1117&color=ffffff&line=2ea043&point=58a6ff&area=true&hide_border=true" alt="Rahul Takale contribution graph" />
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rahultakale44&bg_color=0d1117&color=ffffff&line=2ea043&point=58a6ff&area=true&hide_border=true"
+  alt="Rahul Takale contribution graph"
+/>
 
 </div>
 
-🧩 Coding Profiles
+---
+
+## 🧩 Coding Profiles
 
 <div align="center">
 
@@ -342,14 +335,17 @@ alt="Rahul Takale Productive Time"
   <img src="https://img.shields.io/badge/Codeforces-Competitive_Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
-<a href="[https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/profile/rahultaknp7y)">
+<a href="https://www.geeksforgeeks.org/profile/rahultaknp7y">
   <img src="https://img.shields.io/badge/GeeksforGeeks-Problem_Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 </div>
 
-🎯 Current Roadmap
+---
 
+## 🎯 Current Roadmap
+
+```text
 Java Backend Development
 ├── Core Java and Object-Oriented Programming
 ├── Spring Boot and REST API Development
@@ -376,20 +372,19 @@ Placement Preparation
 ├── Project Explanation
 ├── Aptitude and Coding Assessments
 └── Technical Interview Preparation
+```
 
-🤝 Let Us Connect
+---
+
+## 🤝 Let Us Connect
 
 I am open to:
 
-Software Development and Backend Engineering internships
-
-Java and Spring Boot opportunities
-
-Full-stack development collaborations
-
-AI, cloud and automation projects
-
-Hackathons and open-source contributions
+* Software Development and Backend Engineering internships
+* Java and Spring Boot opportunities
+* Full-stack development collaborations
+* AI, cloud and automation projects
+* Hackathons and open-source contributions
 
 <div align="center">
 
@@ -399,7 +394,6 @@ Hackathons and open-source contributions
 
 <br/><br/>
 
-<h3 align="center">Building. Learning. Improving </h3>
-</h3>
+<h3 align="center">Building. Learning. Improving.</h3>
 
 </div>
