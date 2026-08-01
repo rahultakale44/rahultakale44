@@ -24,7 +24,7 @@
   <img src="./currently-building.svg" alt="Animated development workflow and current projects" width="100%" />
 </p>
 
- Rahul OS — Tech Arsenal
+  OS — Tech Arsenal
 
 <p align="center">
   <img src="./tech-dashboard.svg" alt="Animated technology dashboard" width="100%" />
@@ -82,39 +82,15 @@ AI and blockchain-assisted fraud detection prototype using FastAPI, React, Fireb
   <img src="./achievements-timeline.svg" alt="Animated achievement timeline" width="100%" />
 </p>
 
-💼 Professional Journey
+## Professional Journey
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-💻 Innobytes
-
-Development Intern
-
-Built responsive business platforms, reusable components and supported testing, debugging and performance improvements.
-
-</td>
-<td width="33%" valign="top">
-
-🌾 Red Crest
-
-Technical Intern
-
-Worked on IoT-based smart agriculture monitoring, sensor analysis, testing and technical documentation.
-
-</td>
-<td width="33%" valign="top">
-
-📣 Parikshak.ai
-
-Campus Ambassador
-
-Supported community engagement and platform awareness through the Growth Partner Program.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img
+    src="./professional-journey.svg"
+    alt="Rahul Takale animated professional journey"
+    width="100%"
+  />
+</p>
 
  GitHub Command Center
 
