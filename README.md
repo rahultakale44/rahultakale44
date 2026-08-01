@@ -36,37 +36,15 @@
 
 ---
 
-## 👨‍💻 Who Am I?
+<h2>👨‍💻 Who Am I?</h2>
 
-```javascript
-const rahul = {
-    name: "Rahul Takale",
-    location: "Pune, Maharashtra, India",
-
-    education: {
-        degree: "B.Tech in Computer Science Engineering",
-        specialization: "Artificial Intelligence and Analytics",
-        university: "MIT ADT University, Pune",
-        graduation: 2027
-    },
-
-    roles: [
-        "Java Backend Developer",
-        "Full-Stack Developer",
-        "AI and Cloud Enthusiast"
-    ],
-
-    currentFocus: [
-        "Java and Spring Boot",
-        "React.js and REST APIs",
-        "Data Structures and Algorithms",
-        "Generative AI and LLM Applications",
-        "Cloud Computing and AWS"
-    ],
-
-    goal: "Build reliable software systems that solve real-world problems"
-};
-```
+<p align="center">
+  <img
+    src="./terminal-animation.svg"
+    alt="Rahul Takale animated terminal introduction"
+    width="100%"
+  />
+</p>
 
 I am a Computer Science undergraduate who enjoys turning ideas into practical software products.
 My primary focus is **Java backend and full-stack development**, while I continue exploring **Generative AI, cloud computing, computer vision and data analytics**. I learn best by building projects, solving problems and improving systems through continuous experimentation.
