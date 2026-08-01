@@ -25,8 +25,6 @@
 </p>
 
 <details>
-<summary><b>Open complete technology inventory</b></summary>
-
 <br/>
 
 Languages: Java, Python, JavaScript, C++, RBackend: Spring Boot, FastAPI, Flask, Node.js, Express.js, REST APIsFrontend: React.js, HTML5, CSS3, JavaScript, ViteDatabases: MySQL, PostgreSQL, MongoDB, SQLite, Firebase, QdrantAI/ML: Machine Learning, Computer Vision, LLMs, RAG, LangChain, Hugging Face TransformersCloud & Tools: AWS, Docker, Linux, Git, GitHub, Postman, VS Code
@@ -42,7 +40,6 @@ Languages: Java, Python, JavaScript, C++, RBackend: Spring Boot, FastAPI, Flask,
 </div>
 
 <details>
-<summary><b>Read project details</b></summary>
 
 🩺 MedScope
 
@@ -65,8 +62,6 @@ Real-time posture detection and exercise feedback using OpenCV and MediaPipe.
 AI and blockchain-assisted fraud detection prototype using FastAPI, React, Firebase and Solidity.
 
 </details>
-
-🏆 Achievement Timeline
 
 <p align="center">
   <img src="./achievements-timeline.svg" alt="Animated achievement timeline" width="100%" />
@@ -108,8 +103,6 @@ AI and blockchain-assisted fraud detection prototype using FastAPI, React, Fireb
 <div align="center">
 
 <a href="mailto:rahultakale698@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/rahultakale/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://rahul-portfolio-phi-six.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-00C896?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-
-<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=35&lines=Building.+Learning.+Improving.;Let%27s+build+something+impactful." alt="Footer typing animation" />
 
