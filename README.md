@@ -15,13 +15,10 @@
   <img src="./terminal-animation.svg" alt="Rahul Takale animated terminal introduction" width="100%" />
 </p>
 
- Build Pipeline
-
 <p align="center">
   <img src="./currently-building.svg" alt="Animated development workflow and current projects" width="100%" />
 </p>
 
-  OS — Tech Arsenal
 
 <p align="center">
   <img src="./tech-dashboard.svg" alt="Animated technology dashboard" width="100%" />
@@ -36,15 +33,11 @@ Languages: Java, Python, JavaScript, C++, RBackend: Spring Boot, FastAPI, Flask,
 
 </details>
 
- Featured Applications
-
 <p align="center">
   <img src="./projects-showcase.svg" alt="Animated featured project showcase" width="100%" />
 </p>
 
 <div align="center">
-
-
 
 </div>
 
@@ -79,17 +72,14 @@ AI and blockchain-assisted fraud detection prototype using FastAPI, React, Fireb
   <img src="./achievements-timeline.svg" alt="Animated achievement timeline" width="100%" />
 </p>
 
-## Professional Journey
 
 <p align="center">
   <img
-    src="./professional-journey.svg"
+    src="./professional-journey-2-internships.svg"
     alt="Rahul Takale animated professional journey"
     width="100%"
   />
 </p>
-
- GitHub Command Center
 
 <div align="center">
 
@@ -105,25 +95,17 @@ AI and blockchain-assisted fraud detection prototype using FastAPI, React, Fireb
 
 </div>
 
- Coding Profiles
-
 <div align="center">
 
 <a href="https://leetcode.com/u/RahulTakale/"><img src="https://img.shields.io/badge/LeetCode-DSA_Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a><a href="https://codeforces.com/profile/scholar44/"><img src="https://img.shields.io/badge/Codeforces-Competitive_Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a><a href="https://www.geeksforgeeks.org/profile/rahultaknp7y"><img src="https://img.shields.io/badge/GeeksforGeeks-Problem_Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 
 </div>
 
- Learning Roadmap
-
 <p align="center">
   <img src="./roadmap-tree.svg" alt="Animated learning roadmap" width="100%" />
 </p>
 
- Let Us Connect
-
 <div align="center">
-
-Have an idea worth building?
 
 <a href="mailto:rahultakale698@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/rahultakale/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://rahul-portfolio-phi-six.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-00C896?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
