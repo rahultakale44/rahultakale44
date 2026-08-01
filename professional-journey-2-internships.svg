@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="500" viewBox="0 0 1100 500" role="img" aria-label="Animated professional journey timeline for Rahul Takale">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    text {
+      font-family: "Fira Code", "Cascadia Code", Consolas, monospace;
+    }
+
+    .title {
+      fill: #f8fafc;
+      font-size: 24px;
+      font-weight: 700;
+    }
+
+    .subtitle {
+      fill: #94a3b8;
+      font-size: 15px;
+    }
+
+    .company {
+      fill: #7dd3fc;
+      font-size: 21px;
+      font-weight: 700;
+    }
+
+    .role {
+      fill: #86efac;
+      font-size: 17px;
+      font-weight: 700;
+    }
+
+    .date {
+      fill: #facc15;
+      font-size: 15px;
+      font-weight: 700;
+    }
+
+    .body {
+      fill: #cbd5e1;
+      font-size: 15px;
+    }
+
+    .card {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 2;
+    }
+
+    .timeline {
+      stroke: #334155;
+      stroke-width: 4;
+      stroke-dasharray: 520;
+      stroke-dashoffset: 520;
+      animation: drawLine 9s ease-in-out infinite;
+    }
+
+    .dot {
+      fill: #0d1117;
+      stroke: #2ea043;
+      stroke-width: 4;
+    }
+
+    .entry {
+      opacity: 0;
+      transform: translateX(24px);
+      animation: reveal 9s infinite;
+    }
+
+    .entry2 {
+      animation-delay: 3.5s;
+    }
+
+    .status {
+      fill: #4ade80;
+      animation: blink 1s steps(1) infinite;
+    }
+
+    .scan {
+      fill: #2ea043;
+      opacity: 0.1;
+      animation: scan 4s linear infinite;
+    }
+
+    @keyframes drawLine {
+      0% { stroke-dashoffset: 520; }
+      70%, 100% { stroke-dashoffset: 0; }
+    }
+
+    @keyframes reveal {
+      0%, 8% {
+        opacity: 0;
+        transform: translateX(24px);
+      }
+      16%, 82% {
+        opacity: 1;
+        transform: translateX(0);
+      }
+      100% {
+        opacity: 0;
+        transform: translateX(-10px);
+      }
+    }
+
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+
+    @keyframes scan {
+      from { transform: translateY(0); }
+      to { transform: translateY(340px); }
+    }
+  </style>
+
+  <rect x="15" y="15" width="1070" height="470" rx="18" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
+
+  <rect x="15" y="15" width="1070" height="62" rx="18" fill="#161b22"/>
+  <rect x="15" y="57" width="1070" height="20" fill="#161b22"/>
+
+  <circle cx="50" cy="46" r="8" fill="#ff5f57"/>
+  <circle cx="76" cy="46" r="8" fill="#febc2e"/>
+  <circle cx="102" cy="46" r="8" fill="#28c840"/>
+
+  <text x="135" y="53" class="title">career.log — professional journey</text>
+  <text x="875" y="52" class="subtitle">STATUS: ACTIVE</text>
+  <circle cx="1040" cy="46" r="7" class="status"/>
+
+  <rect x="40" y="95" width="1020" height="350" rx="16" class="card"/>
+  <rect x="40" y="95" width="1020" height="4" class="scan"/>
+
+  <line x1="178" y1="135" x2="178" y2="405" class="timeline"/>
+
+  <g class="entry">
+    <circle cx="178" cy="175" r="11" class="dot"/>
+    <text x="65" y="180" class="date">2025</text>
+
+    <text x="230" y="155" class="company">Innobytes</text>
+    <text x="230" y="185" class="role">Development Intern</text>
+
+    <text x="230" y="225" class="body">• Built responsive interfaces for business-focused platforms</text>
+    <text x="230" y="252" class="body">• Developed reusable frontend components and page layouts</text>
+    <text x="230" y="279" class="body">• Supported debugging, testing and performance improvements</text>
+
+    <rect x="820" y="152" width="185" height="34" rx="7" fill="#0d1117" stroke="#334155"/>
+    <text x="844" y="175" class="subtitle">BizGrowth • InnoHubs</text>
+  </g>
+
+  <g class="entry entry2">
+    <circle cx="178" cy="345" r="11" class="dot"/>
+    <text x="65" y="350" class="date">2025</text>
+
+    <text x="230" y="325" class="company">Red Crest Charitable Trust</text>
+    <text x="230" y="355" class="role">Technical Intern</text>
+
+    <text x="230" y="395" class="body">• Worked on low-cost IoT monitoring for smart agriculture</text>
+    <text x="230" y="422" class="body">• Assisted with sensor-data analysis, testing and documentation</text>
+
+    <rect x="820" y="322" width="185" height="34" rx="7" fill="#0d1117" stroke="#334155"/>
+    <text x="858" y="345" class="subtitle">IoT • Agriculture</text>
+  </g>
+</svg>
