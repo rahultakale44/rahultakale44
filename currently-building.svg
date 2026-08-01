@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+text{font-family:"Fira Code","Cascadia Code",Consolas,monospace}
+.title{fill:#f8fafc;font-size:23px;font-weight:700}.muted{fill:#94a3b8;font-size:16px}
+.node{fill:#161b22;stroke:#334155;stroke-width:2}.active{animation:pulse 6s infinite}
+.line{stroke:#334155;stroke-width:4;stroke-dasharray:12 10;animation:flow 2.2s linear infinite}
+.label{fill:#e2e8f0;font-size:17px;font-weight:700}.small{fill:#94a3b8;font-size:14px}
+.project{opacity:0;animation:swap 12s infinite}.p2{animation-delay:4s}.p3{animation-delay:8s}
+.cursor{fill:#fb7185;animation:blink .8s steps(1) infinite}
+@keyframes flow{to{stroke-dashoffset:-44}}@keyframes pulse{0%,100%{stroke:#334155}50%{stroke:#2ea043;filter:url(#glow)}}
+@keyframes swap{0%,28%{opacity:1}33%,100%{opacity:0}}@keyframes blink{50%{opacity:0}}
+</style>
+<rect x="15" y="15" width="1070" height="400" rx="18" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
+<rect x="15" y="15" width="1070" height="58" rx="18" fill="#161b22"/><rect x="15" y="55" width="1070" height="18" fill="#161b22"/>
+<circle cx="50" cy="44" r="8" fill="#ff5f57"/><circle cx="76" cy="44" r="8" fill="#febc2e"/><circle cx="102" cy="44" r="8" fill="#28c840"/>
+<text x="135" y="51" class="title">rahul-os / build-pipeline</text>
+<text x="55" y="112" class="muted">$ npm run build:future</text>
+<line x1="145" y1="218" x2="955" y2="218" class="line"/>
+<g class="active">
+<rect x="65" y="168" width="150" height="100" rx="14" class="node"/><text x="140" y="209" text-anchor="middle" class="label">IDEA</text><text x="140" y="238" text-anchor="middle" class="small">Problem first</text>
+<rect x="270" y="168" width="150" height="100" rx="14" class="node"/><text x="345" y="209" text-anchor="middle" class="label">DESIGN</text><text x="345" y="238" text-anchor="middle" class="small">UX + Architecture</text>
+<rect x="475" y="168" width="150" height="100" rx="14" class="node"/><text x="550" y="209" text-anchor="middle" class="label">BACKEND</text><text x="550" y="238" text-anchor="middle" class="small">APIs + Database</text>
+<rect x="680" y="168" width="150" height="100" rx="14" class="node"/><text x="755" y="209" text-anchor="middle" class="label">AI LAYER</text><text x="755" y="238" text-anchor="middle" class="small">RAG + Agents</text>
+<rect x="885" y="168" width="150" height="100" rx="14" class="node"/><text x="960" y="209" text-anchor="middle" class="label">DEPLOY</text><text x="960" y="238" text-anchor="middle" class="small">Cloud + CI/CD</text>
+</g>
+<text x="55" y="325" class="muted">currently_building:</text>
+<g class="project"><text x="275" y="325" class="title" fill="#4ade80">GarageMate — Roadside Assistance Platform</text></g>
+<g class="project p2"><text x="275" y="325" class="title" fill="#7dd3fc">CartWise — AI Product Recommendation System</text></g>
+<g class="project p3"><text x="275" y="325" class="title" fill="#c4b5fd">MedScope — Evidence-Grounded Medical RAG</text></g>
+<text x="55" y="375" class="muted">$ shipping useful software</text><rect x="347" y="354" width="13" height="25" class="cursor"/>
+</svg>

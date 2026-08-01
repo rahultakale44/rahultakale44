@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650">
+<style>
+text{font-family:"Fira Code","Cascadia Code",Consolas,monospace}.h{fill:#f8fafc;font-size:22px;font-weight:700}.p{fill:#facc15;font-size:18px}.t{fill:#cbd5e1;font-size:16px}
+.g{opacity:0;animation:r 10s infinite}.g2{animation-delay:1.5s}.g3{animation-delay:3s}.g4{animation-delay:4.5s}
+.cursor{fill:#fb7185;animation:b .8s steps(1) infinite}
+@keyframes r{0%,8%{opacity:0}15%,88%{opacity:1}100%{opacity:0}}@keyframes b{50%{opacity:0}}
+</style>
+<rect x="15" y="15" width="1070" height="620" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<rect x="15" y="15" width="1070" height="58" rx="18" fill="#161b22"/><text x="45" y="51" class="h">rahul@portfolio: roadmap</text>
+<text x="55" y="105" class="p">$ tree learning-roadmap</text>
+<g class="g"><text x="55" y="150" class="t">├── Backend Engineering</text><text x="85" y="180" class="t">│   ├── Spring Boot &amp; Security</text><text x="85" y="210" class="t">│   ├── Database Design</text><text x="85" y="240" class="t">│   └── System Design &amp; Deployment</text></g>
+<g class="g g2"><text x="55" y="290" class="t">├── Artificial Intelligence</text><text x="85" y="320" class="t">│   ├── LLM Applications</text><text x="85" y="350" class="t">│   ├── RAG &amp; Vector Search</text><text x="85" y="380" class="t">│   └── AI Agents &amp; Computer Vision</text></g>
+<g class="g g3"><text x="55" y="430" class="t">├── Cloud &amp; DevOps</text><text x="85" y="460" class="t">│   ├── AWS Fundamentals</text><text x="85" y="490" class="t">│   └── Docker, Linux &amp; CI/CD</text></g>
+<g class="g g4"><text x="55" y="540" class="t">└── Placement Preparation</text><text x="85" y="570" class="t">    ├── DSA &amp; Core CS</text><text x="85" y="600" class="t">    └── Projects, Aptitude &amp; Interviews</text></g>
+<rect x="520" y="579" width="13" height="24" class="cursor"/>
+</svg>

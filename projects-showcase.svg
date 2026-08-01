@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="530" viewBox="0 0 1100 530">
+<style>
+text{font-family:"Fira Code","Cascadia Code",Consolas,monospace}.h{fill:#f8fafc;font-size:23px;font-weight:700}.name{fill:#7dd3fc;font-size:22px;font-weight:700}.desc{fill:#cbd5e1;font-size:16px}.stack{fill:#86efac;font-size:15px}.card{fill:#161b22;stroke:#30363d;stroke-width:2}
+.slide{opacity:0;animation:swap 15s infinite}.s2{animation-delay:3s}.s3{animation-delay:6s}.s4{animation-delay:9s}.s5{animation-delay:12s}
+@keyframes swap{0%,17%{opacity:1;transform:none}20%,100%{opacity:0;transform:translateX(20px)}}
+</style>
+<rect x="15" y="15" width="1070" height="500" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<text x="45" y="60" class="h">FEATURED APPLICATIONS</text>
+<rect x="75" y="100" width="950" height="350" rx="18" class="card"/>
+<circle cx="110" cy="128" r="7" fill="#ff5f57"/><circle cx="134" cy="128" r="7" fill="#febc2e"/><circle cx="158" cy="128" r="7" fill="#28c840"/>
+<g class="slide"><text x="110" y="190" class="name">MedScope</text><text x="110" y="230" class="desc">Evidence-grounded medical literature retrieval and Q&amp;A.</text><text x="110" y="270" class="stack">Python • FastAPI • React • LangChain • Qdrant • RAG</text><text x="110" y="330" class="desc">upload → retrieve → cite → answer</text></g>
+<g class="slide s2"><text x="110" y="190" class="name">ShopSphere</text><text x="110" y="230" class="desc">Secure full-stack e-commerce platform with role-based workflows.</text><text x="110" y="270" class="stack">Java • Spring Boot • React • MySQL • JWT • Razorpay</text><text x="110" y="330" class="desc">browse → cart → checkout → order</text></g>
+<g class="slide s3"><text x="110" y="190" class="name">GarageMate</text><text x="110" y="230" class="desc">Hyperlocal roadside assistance and nearby garage discovery.</text><text x="110" y="270" class="stack">React • Node.js • Express • MongoDB • Maps • Razorpay</text><text x="110" y="330" class="desc">locate → request → connect → assist</text></g>
+<g class="slide s4"><text x="110" y="190" class="name">AI Fitness Coach</text><text x="110" y="230" class="desc">Real-time exercise posture detection and feedback.</text><text x="110" y="270" class="stack">Python • OpenCV • MediaPipe • Flask • JavaScript</text><text x="110" y="330" class="desc">capture → detect → analyze → guide</text></g>
+<g class="slide s5"><text x="110" y="190" class="name">AuditX</text><text x="110" y="230" class="desc">AI and blockchain-assisted fraud prevention prototype.</text><text x="110" y="270" class="stack">React • FastAPI • Python • Firebase • Solidity</text><text x="110" y="330" class="desc">monitor → score → validate → audit</text></g>
+<text x="75" y="485" class="desc">Use the repository buttons below to explore the code.</text>
+</svg>
