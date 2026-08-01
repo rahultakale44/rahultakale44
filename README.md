@@ -36,8 +36,6 @@
 
 ---
 
-<h2>👨‍💻 Who Am I?</h2>
-
 <p align="center">
   <img
     src="./terminal-animation.svg"
