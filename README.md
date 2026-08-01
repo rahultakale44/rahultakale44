@@ -15,19 +15,19 @@
 </div>
 
 <p align="center">
-  <img src="./assets/terminal-animation.svg" alt="Rahul Takale animated terminal introduction" width="100%" />
+  <img src="./terminal-animation.svg" alt="Rahul Takale animated terminal introduction" width="100%" />
 </p>
 
  Build Pipeline
 
 <p align="center">
-  <img src="./assets/currently-building.svg" alt="Animated development workflow and current projects" width="100%" />
+  <img src="./currently-building.svg" alt="Animated development workflow and current projects" width="100%" />
 </p>
 
  Rahul OS — Tech Arsenal
 
 <p align="center">
-  <img src="./assets/tech-dashboard.svg" alt="Animated technology dashboard" width="100%" />
+  <img src="./tech-dashboard.svg" alt="Animated technology dashboard" width="100%" />
 </p>
 
 <details>
@@ -42,7 +42,7 @@ Languages: Java, Python, JavaScript, C++, RBackend: Spring Boot, FastAPI, Flask,
  Featured Applications
 
 <p align="center">
-  <img src="./assets/projects-showcase.svg" alt="Animated featured project showcase" width="100%" />
+  <img src="./projects-showcase.svg" alt="Animated featured project showcase" width="100%" />
 </p>
 
 <div align="center">
@@ -79,7 +79,7 @@ AI and blockchain-assisted fraud detection prototype using FastAPI, React, Fireb
 🏆 Achievement Timeline
 
 <p align="center">
-  <img src="./assets/achievements-timeline.svg" alt="Animated achievement timeline" width="100%" />
+  <img src="./achievements-timeline.svg" alt="Animated achievement timeline" width="100%" />
 </p>
 
 💼 Professional Journey
@@ -143,7 +143,7 @@ Supported community engagement and platform awareness through the Growth Partner
  Learning Roadmap
 
 <p align="center">
-  <img src="./assets/roadmap-tree.svg" alt="Animated learning roadmap" width="100%" />
+  <img src="./roadmap-tree.svg" alt="Animated learning roadmap" width="100%" />
 </p>
 
  Let Us Connect
