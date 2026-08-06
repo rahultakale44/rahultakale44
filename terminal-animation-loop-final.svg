@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="720" viewBox="0 0 1100 720"
+     role="img" aria-label="Looping animated terminal introduction for Rahul Takale">
+
+  <defs>
+    <linearGradient id="terminalBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f14"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <!-- Typing masks use one shared 10-second timeline, so every loop restarts together. -->
+    <clipPath id="typing1">
+      <rect x="92" y="122" width="0" height="35">
+        <animate attributeName="width"
+                 values="0;0;290;290;0"
+                 keyTimes="0;0.04;0.13;0.90;1"
+                 dur="10s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="typing2">
+      <rect x="92" y="204" width="0" height="35">
+        <animate attributeName="width"
+                 values="0;0;250;250;0"
+                 keyTimes="0;0.20;0.28;0.90;1"
+                 dur="10s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="typing3">
+      <rect x="92" y="438" width="0" height="35">
+        <animate attributeName="width"
+                 values="0;0;235;235;0"
+                 keyTimes="0;0.52;0.60;0.90;1"
+                 dur="10s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <style>
+    .mono {
+      font-family: "Fira Code", "Cascadia Code", "SFMono-Regular", Consolas, monospace;
+    }
+
+    .title   { font-size:18px; font-weight:700; fill:#e5e7eb; }
+    .prompt  { font-size:22px; font-weight:700; fill:#facc15; }
+    .command { font-size:22px; font-weight:700; fill:#f8fafc; }
+    .output  { font-size:19px; fill:#c4b5fd; }
+    .key     { fill:#7dd3fc; }
+    .value   { fill:#86efac; }
+
+    .command1 { animation: command1 10s linear infinite; }
+    .output1  { animation: output1 10s linear infinite; }
+    .command2 { animation: command2 10s linear infinite; }
+    .output2  { animation: output2 10s linear infinite; }
+    .command3 { animation: command3 10s linear infinite; }
+    .output3  { animation: output3 10s linear infinite; }
+    .ending   { animation: ending 10s linear infinite; }
+
+    .cursor {
+      fill:#fb7185;
+      animation: cursorVisibility 10s linear infinite, blink .75s steps(1) infinite;
+    }
+
+    @keyframes command1 {
+      0%,3% { opacity:0; }
+      4%,90% { opacity:1; }
+      94%,100% { opacity:0; }
+    }
+
+    @keyframes output1 {
+      0%,13% { opacity:0; }
+      16%,90% { opacity:1; }
+      94%,100% { opacity:0; }
+    }
+
+    @keyframes command2 {
+      0%,19% { opacity:0; }
+      20%,90% { opacity:1; }
+      94%,100% { opacity:0; }
+    }
+
+    @keyframes output2 {
+      0%,28% { opacity:0; }
+      31%,90% { opacity:1; }
+      94%,100% { opacity:0; }
+    }
+
+    @keyframes command3 {
+      0%,51% { opacity:0; }
+      52%,90% { opacity:1; }
+      94%,100% { opacity:0; }
+    }
+
+    @keyframes output3 {
+      0%,60% { opacity:0; }
+      63%,90% { opacity:1; }
+      94%,100% { opacity:0; }
+    }
+
+    @keyframes ending {
+      0%,78% { opacity:0; }
+      81%,90% { opacity:1; }
+      94%,100% { opacity:0; }
+    }
+
+    @keyframes cursorVisibility {
+      0%,78% { opacity:0; }
+      81%,90% { opacity:1; }
+      94%,100% { opacity:0; }
+    }
+
+    @keyframes blink {
+      0%,49% { opacity:1; }
+      50%,100% { opacity:0; }
+    }
+  </style>
+
+  <!-- Window -->
+  <rect x="20" y="20" width="1060" height="680" rx="18"
+        fill="url(#terminalBg)" stroke="#334155" stroke-width="2"/>
+
+  <rect x="20" y="20" width="1060" height="62" rx="18" fill="#161b22"/>
+  <rect x="20" y="62" width="1060" height="20" fill="#161b22"/>
+
+  <circle cx="56" cy="51" r="9" fill="#ff5f57"/>
+  <circle cx="84" cy="51" r="9" fill="#febc2e"/>
+  <circle cx="112" cy="51" r="9" fill="#28c840"/>
+
+  <text x="145" y="58" class="mono title">rahul@portfolio: ~</text>
+
+  <rect x="938" y="35" width="106" height="32" rx="6"
+        fill="#0f172a" stroke="#475569"/>
+  <text x="958" y="57" class="mono title" font-size="14">TERMINAL</text>
+
+  <g class="mono">
+
+    <!-- 1. npx command -->
+    <g class="command1">
+      <text x="64" y="145" class="prompt">$</text>
+      <text x="92" y="145" class="command" clip-path="url(#typing1)">npx rahul-takale</text>
+    </g>
+
+    <g class="output1">
+      <text x="64" y="185" class="output">&gt; Initializing Rahul Takale...</text>
+    </g>
+
+    <!-- 2. profile command -->
+    <g class="command2">
+      <text x="64" y="227" class="prompt">$</text>
+      <text x="92" y="227" class="command" clip-path="url(#typing2)">cat profile.json</text>
+    </g>
+
+    <g class="output2">
+      <text x="64" y="274" class="output">{</text>
+      <text x="92" y="312" class="output key">"name": <tspan class="value">"Rahul Takale"</tspan>,</text>
+      <text x="92" y="350" class="output key">"role": <tspan class="value">"AI Engineer &amp; Backend Developer"</tspan>,</text>
+      <text x="92" y="388" class="output key">"education": <tspan class="value">"B.Tech CSE, MIT ADT University"</tspan></text>
+      <text x="64" y="426" class="output">}</text>
+    </g>
+
+    <!-- 3. skills command -->
+    <g class="command3">
+      <text x="64" y="461" class="prompt">$</text>
+      <text x="92" y="461" class="command" clip-path="url(#typing3)">cat skills.json</text>
+    </g>
+
+    <g class="output3">
+      <text x="64" y="508" class="output">{</text>
+      <text x="92" y="546" class="output key">"languages": <tspan class="value">["Java", "Python", "JavaScript", "C++"]</tspan>,</text>
+      <text x="92" y="584" class="output key">"backend": <tspan class="value">["Spring Boot", "FastAPI", "Node.js"]</tspan>,</text>
+      <text x="92" y="622" class="output key">"ai_ml": <tspan class="value">["LLMs", "RAG", "LangChain", "Transformers"]</tspan></text>
+      <text x="64" y="660" class="output">}</text>
+    </g>
+
+    <!-- Final prompt, with bottom spacing -->
+    <g class="ending">
+      <text x="64" y="680" class="prompt">$</text>
+      <rect x="92" y="658" width="14" height="27" rx="1" class="cursor"/>
+    </g>
+
+  </g>
+</svg>
