@@ -102,6 +102,4 @@ AI and blockchain-assisted fraud detection prototype using FastAPI, React, Fireb
 
 <a href="mailto:rahultakale698@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/rahultakale/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://rahul-portfolio-phi-six.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-00C896?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=35&lines=Building.+Learning.+Improving.;Let%27s+build+something+impactful." alt="Footer typing animation" />
-
 </div>
