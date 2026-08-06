@@ -93,13 +93,3 @@ AI and blockchain-assisted fraud detection prototype using FastAPI, React, Fireb
 <a href="https://leetcode.com/u/RahulTakale/"><img src="https://img.shields.io/badge/LeetCode-DSA_Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a><a href="https://codeforces.com/profile/scholar44/"><img src="https://img.shields.io/badge/Codeforces-Competitive_Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a><a href="https://www.geeksforgeeks.org/profile/rahultaknp7y"><img src="https://img.shields.io/badge/GeeksforGeeks-Problem_Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 
 </div>
-
-<p align="center">
-  <img src="./roadmap-tree.svg" alt="Animated learning roadmap" width="100%" />
-</p>
-
-<div align="center">
-
-<a href="mailto:rahultakale698@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/rahultakale/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://rahul-portfolio-phi-six.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-00C896?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-
-</div>
