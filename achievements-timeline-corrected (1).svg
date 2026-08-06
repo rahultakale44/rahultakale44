@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="590" viewBox="0 0 1100 590">
+<style>
+text{font-family:"Fira Code","Cascadia Code",Consolas,monospace}.h{fill:#f8fafc;font-size:23px;font-weight:700}.year{fill:#facc15;font-size:17px;font-weight:700}.t{fill:#e2e8f0;font-size:17px}.d{fill:#94a3b8;font-size:14px}
+.line{stroke:#334155;stroke-width:4;stroke-dasharray:600;stroke-dashoffset:600;animation:draw 8s ease-in-out infinite}.item{opacity:0;animation:show 8s infinite}.i2{animation-delay:1s}.i3{animation-delay:2s}.i4{animation-delay:3s}.i5{animation-delay:4s}.i6{animation-delay:5s}
+.dot{fill:#0d1117;stroke:#2ea043;stroke-width:4}
+@keyframes draw{0%{stroke-dashoffset:600}70%,100%{stroke-dashoffset:0}}@keyframes show{0%,10%{opacity:0;transform:translateX(-15px)}20%,85%{opacity:1;transform:none}100%{opacity:0}}
+</style>
+<rect x="15" y="15" width="1070" height="560" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<text x="45" y="60" class="h">ACHIEVEMENT TIMELINE</text>
+<line x1="195" y1="110" x2="195" y2="525" class="line"/>
+
+<g class="item">
+  <circle cx="195" cy="130" r="10" class="dot"/>
+  <text x="65" y="136" class="year">2024</text>
+  <text x="235" y="130" class="t">Google Cloud Arcade — Premium Plus</text>
+  <text x="235" y="154" class="d">Cloud, Kubernetes, AI/ML and security milestones</text>
+</g>
+
+<g class="item i2">
+  <circle cx="195" cy="205" r="10" class="dot"/>
+  <text x="65" y="211" class="year">2025</text>
+  <text x="235" y="205" class="t">UNESCO Youth Hackathon — NutriCheck</text>
+  <text x="235" y="229" class="d">Responsible food consumption solution</text>
+</g>
+
+<g class="item i3">
+  <circle cx="195" cy="280" r="10" class="dot"/>
+  <text x="65" y="286" class="year">2025</text>
+  <text x="235" y="280" class="t">VIT Pune PRISM Sociothon — Top 180</text>
+  <text x="235" y="304" class="d">CarbonVision sustainability project</text>
+</g>
+
+<g class="item i4">
+  <circle cx="195" cy="355" r="10" class="dot"/>
+  <text x="65" y="361" class="year">2025</text>
+  <text x="235" y="355" class="t">Kumbathon — AI Crowd Surveillance</text>
+  <text x="235" y="379" class="d">Computer vision prototype for public safety</text>
+</g>
+
+<g class="item i5">
+  <circle cx="195" cy="430" r="10" class="dot"/>
+  <text x="65" y="436" class="year">2026</text>
+  <text x="235" y="430" class="t">MIT ADT AI Grand Challenge — Top 7</text>
+  <text x="235" y="454" class="d">AuditX: AI and blockchain fraud prevention</text>
+</g>
+
+<g class="item i6">
+  <circle cx="195" cy="505" r="10" class="dot"/>
+  <text x="65" y="511" class="year">2026</text>
+  <text x="235" y="505" class="t">Indradhanu International Grand Challenge</text>
+  <text x="235" y="529" class="d">Finalist — AI and IoT aeroponics system</text>
+</g>
+</svg>
