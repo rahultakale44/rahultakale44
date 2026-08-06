@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./Recheck.jpg" alt="Rahul Takale at Indradhanu Grand Finale" width="100%" />
+  <img src="./Recheck.jpg" alt="Rahul Takale at Indradhanu Grand Finale" width="75%" />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=850&height=45&lines=AI+Engineer+%26+Backend+Developer;Building+Spring+Boot+%2B+React+Applications;Creating+RAG%2C+LLM+and+Computer+Vision+Systems;Learning%2C+Building+and+Improving+Every+Day" alt="Typing SVG" />
