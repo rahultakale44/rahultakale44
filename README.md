@@ -62,7 +62,7 @@ AI and blockchain-assisted fraud detection prototype using FastAPI, React, Fireb
 </details>
 
 <p align="center">
-  <img src="./achievements-timeline-corrected.svg" alt="Animated achievement timeline" width="100%" />
+  <img src="./achievements-timeline-corrected (1).svg" alt="Animated achievement timeline" width="100%" />
 </p>
 
 
