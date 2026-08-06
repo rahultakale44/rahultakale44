@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="./terminal-animation-clean-final.svg" alt="Rahul Takale animated terminal introduction" width="100%" />
+  <img src="./terminal-animation-loop-final.svg" alt="Rahul Takale animated terminal introduction" width="100%" />
 </p>
 
 <p align="center">
