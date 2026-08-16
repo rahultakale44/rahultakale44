@@ -18,16 +18,170 @@
 </p>
 
 
-<p align="center">
-  <img src="./tech-dashboard.svg" alt="Animated technology dashboard" width="100%" />
-</p>
+<h2>Tech Stack</h2>
 
-<details>
-<br/>
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=java" width="55" /><br/>
+      <b>Java</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python" width="55" /><br/>
+      <b>Python</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=cpp" width="55" /><br/>
+      <b>C++</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=js" width="55" /><br/>
+      <b>JavaScript</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="55" /><br/>
+      <b>R</b>
+    </td>
+  </tr>
 
-Languages: Java, Python, JavaScript, C++, RBackend: Spring Boot, FastAPI, Flask, Node.js, Express.js, REST APIsFrontend: React.js, HTML5, CSS3, JavaScript, ViteDatabases: MySQL, PostgreSQL, MongoDB, SQLite, Firebase, QdrantAI/ML: Machine Learning, Computer Vision, LLMs, RAG, LangChain, Hugging Face TransformersCloud & Tools: AWS, Docker, Linux, Git, GitHub, Postman, VS Code
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring" width="55" /><br/>
+      <b>Spring Boot</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="55" /><br/>
+      <b>FastAPI</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask" width="55" /><br/>
+      <b>Flask</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" /><br/>
+      <b>Node.js</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="55" /><br/>
+      <b>Express.js</b>
+    </td>
+  </tr>
 
-</details>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="55" /><br/>
+      <b>React</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="55" /><br/>
+      <b>HTML5</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="55" /><br/>
+      <b>CSS3</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="55" /><br/>
+      <b>Vite</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="55" /><br/>
+      <b>Tailwind</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55" /><br/>
+      <b>MySQL</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="55" /><br/>
+      <b>PostgreSQL</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="55" /><br/>
+      <b>MongoDB</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="55" /><br/>
+      <b>SQLite</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=firebase" width="55" /><br/>
+      <b>Firebase</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="55" /><br/>
+      <b>OpenCV</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="55" /><br/>
+      <b>Hugging Face</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="55" /><br/>
+      <b>LangChain</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/qdrant/DC244C" width="55" /><br/>
+      <b>Qdrant</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AI-LLM-7C3AED?style=flat-square" width="70" /><br/>
+      <b>LLM / RAG</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" width="55" /><br/>
+      <b>AWS</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="55" /><br/>
+      <b>Docker</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="55" /><br/>
+      <b>Linux</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="55" /><br/>
+      <b>Git</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="55" /><br/>
+      <b>GitHub</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" width="55" /><br/>
+      <b>Postman</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="55" /><br/>
+      <b>VS Code</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="55" /><br/>
+      <b>REST API</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" width="55" /><br/>
+      <b>JWT</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="55" /><br/>
+      <b>GitHub Actions</b>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./projects-showcase.svg" alt="Animated featured project showcase" width="100%" />
