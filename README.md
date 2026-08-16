@@ -13,175 +13,209 @@
   <img src="./terminal-animation-loop-final.svg" alt="Rahul Takale animated terminal introduction" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./currently-building.svg" alt="Animated development workflow and current projects" width="100%" />
-</p>
+## Tech Stack
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <br>Java
+</td>
+
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <br>Python
+</td>
+
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <br>JavaScript
+</td>
+
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+  <br>C++
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+  <br>R
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+  <br>Spring Boot
+</td>
+
+</tr>
 
 
-<h2>Tech Stack</h2>
+<tr>
 
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=java" width="55" /><br/>
-      <b>Java</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=python" width="55" /><br/>
-      <b>Python</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=cpp" width="55" /><br/>
-      <b>C++</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=js" width="55" /><br/>
-      <b>JavaScript</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="55" /><br/>
-      <b>R</b>
-    </td>
-  </tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+  <br>FastAPI
+</td>
 
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=spring" width="55" /><br/>
-      <b>Spring Boot</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="55" /><br/>
-      <b>FastAPI</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flask" width="55" /><br/>
-      <b>Flask</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="55" /><br/>
-      <b>Node.js</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="55" /><br/>
-      <b>Express.js</b>
-    </td>
-  </tr>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/flask-icon.svg" alt="Flask" width="65" height="65" />
+  <br>Flask
+</td>
 
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="55" /><br/>
-      <b>React</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="55" /><br/>
-      <b>HTML5</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="55" /><br/>
-      <b>CSS3</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="55" /><br/>
-      <b>Vite</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="55" /><br/>
-      <b>Tailwind</b>
-    </td>
-  </tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <br>Node.js
+</td>
 
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="55" /><br/>
-      <b>MySQL</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres" width="55" /><br/>
-      <b>PostgreSQL</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="55" /><br/>
-      <b>MongoDB</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="55" /><br/>
-      <b>SQLite</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=firebase" width="55" /><br/>
-      <b>Firebase</b>
-    </td>
-  </tr>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+  <br>REST API
+</td>
 
-  <tr>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="55" /><br/>
-      <b>OpenCV</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="55" /><br/>
-      <b>Hugging Face</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="55" /><br/>
-      <b>LangChain</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/qdrant/DC244C" width="55" /><br/>
-      <b>Qdrant</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AI-LLM-7C3AED?style=flat-square" width="70" /><br/>
-      <b>LLM / RAG</b>
-    </td>
-  </tr>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <br>React
+</td>
 
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" width="55" /><br/>
-      <b>AWS</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="55" /><br/>
-      <b>Docker</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="55" /><br/>
-      <b>Linux</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="55" /><br/>
-      <b>Git</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="55" /><br/>
-      <b>GitHub</b>
-    </td>
-  </tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+  <br>Vite
+</td>
 
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postman" width="55" /><br/>
-      <b>Postman</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="55" /><br/>
-      <b>VS Code</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="55" /><br/>
-      <b>REST API</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" width="55" /><br/>
-      <b>JWT</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="55" /><br/>
-      <b>GitHub Actions</b>
-    </td>
-  </tr>
+</tr>
+
+
+<tr>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+  <br>HTML5
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+  <br>CSS3
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+  <br>Tailwind
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+  <br>MySQL
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+  <br>PostgreSQL
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+  <br>MongoDB
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+  <br>SQLite
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+  <br>Firebase
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+  <br>OpenCV
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Machine Learning" />
+  <br>ML
+</td>
+
+<td align="center" width="96">
+  <img src="https://img.shields.io/badge/LLM-7C3AED?style=for-the-badge" alt="LLMs" height="48" />
+  <br>LLMs
+</td>
+
+<td align="center" width="96">
+  <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" alt="RAG" height="48" />
+  <br>RAG
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center" width="96">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" height="48" />
+  <br>LangChain
+</td>
+
+<td align="center" width="96">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" height="48" />
+  <br>Hugging Face
+</td>
+
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  <br>AWS
+</td>
+
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <br>Docker
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+  <br>Linux
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <br>Git
+</td>
+
+</tr>
+
+
+<tr>
+
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <br>GitHub
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+  <br>Postman
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+  <br>VS Code
+</td>
+
+</tr>
+
 </table>
+
+</div>
 
 <p align="center">
   <img src="./projects-showcase.svg" alt="Animated featured project showcase" width="100%" />
