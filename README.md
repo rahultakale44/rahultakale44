@@ -216,6 +216,5 @@ AI and blockchain-assisted fraud detection prototype using FastAPI, React, Fireb
 
 <div align="center">
 
-<a href="https://leetcode.com/u/RahulTakale/"><img src="https://img.shields.io/badge/LeetCode-DSA_Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a><a href="https://codeforces.com/profile/scholar44/"><img src="https://img.shields.io/badge/Codeforces-Competitive_Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a><a href="https://www.geeksforgeeks.org/profile/rahultaknp7y"><img src="https://img.shields.io/badge/GeeksforGeeks-Problem_Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 
 </div>
