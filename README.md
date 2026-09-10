@@ -9,12 +9,6 @@
 <img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=238636&style=flat-square" alt="Profile views"/>
 </div>
 
-<p align="center">
-  <img src="./terminal-animation-loop-final.svg" alt="Rahul Takale animated terminal introduction" width="100%" />
-</p>
-
-## Tech Stack
-
 <div align="center">
 
 <table>
@@ -154,51 +148,6 @@
 </table>
 
 </div>
-
-<p align="center">
-  <img src="./projects-showcase.svg" alt="Animated featured project showcase" width="100%" />
-</p>
-
-<div align="center">
-
-</div>
-
-<details>
-
-🩺 MedScope
-
-Evidence-grounded medical document assistant built with Python, FastAPI, React, LangChain, vector search and RAG.
-
-🛒 ShopSphere
-
-Full-stack e-commerce platform with Spring Boot, React, MySQL, JWT, Spring Security and Razorpay.
-
-🏫 CampusCare
-
-Role-based complaint management platform using Java, Spring Boot, React and MySQL.
-
-🏋️ AI Fitness Coach
-
-Real-time posture detection and exercise feedback using OpenCV and MediaPipe.
-
-🔐 AuditX
-
-AI and blockchain-assisted fraud detection prototype using FastAPI, React, Firebase and Solidity.
-
-</details>
-
-<p align="center">
-  <img src="./achievements-timeline-corrected (1).svg" alt="Animated achievement timeline" width="100%" />
-</p>
-
-
-<p align="center">
-  <img
-    src="./professional-journey-2-internships.svg"
-    alt="Rahul Takale animated professional journey"
-    width="100%"
-  />
-</p>
 
 <div align="center">
 
