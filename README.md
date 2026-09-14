@@ -8,24 +8,3 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=238636&style=flat-square" alt="Profile views"/>
 </div>
-
-<div align="center">
-
-<div align="center">
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=rahultakale44&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahultakale44&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=rahultakale44&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahultakale44&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahultakale44&bg_color=0d1117&color=ffffff&line=2ea043&point=58a6ff&area=true&hide_border=true" alt="Contribution graph"/>
-
-</div>
-
-<div align="center">
-
-
-</div>
