@@ -219,23 +219,3 @@ A probabilistic media-revenue forecasting platform developed during the **NetEli
   <img src="https://raw.githubusercontent.com/rahultakale44/rahultakale44/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
-## What I'm Working Toward
-
-I'm interested in opportunities where I can work on:
-
-**AI Engineering · Backend Systems · Database Engineering · Distributed Systems · Developer Infrastructure · Applied ML**
-
-and contribute to products where **software engineering and intelligent systems meet**.
-
----
-
-<p align="center">
-
-###  Let's Build Something That Actually Works.
-
-**Rahul Takale**
-
-</p>
-
