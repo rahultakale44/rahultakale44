@@ -30,12 +30,6 @@ My current focus is on building systems that are:
 
 > **I like understanding what happens underneath the abstraction and then building it myself.**
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahultakale44&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
