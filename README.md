@@ -1,4 +1,3 @@
-
 <div align="center">
 <p align="center">
   <img src="./Recheck.jpg" alt="Rahul Takale at Indradhanu Grand Finale" width="100%" />
@@ -14,26 +13,22 @@
   <a href="https://rahultakale.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/rahultakale/">LinkedIn</a> ·
   <a href="mailto:rahultakale698@gmail.com">Email</a>
-  
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=850&height=45&lines=AI+Engineer+%26+Backend+Developer;Building+Spring+Boot+%2B+React+Applications;Creating+RAG%2C+LLM+and+Computer+Vision+Systems;Learning%2C+Building+and+Improving+Every+Day" alt="Typing SVG" />
-<br/>
-<img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=238636&style=flat-square" alt="Profile views"/>
+
 </div>
 
 I'm **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at **MIT Art, Design & Technology University**, Pune.
-
-I enjoy building software that goes beyond model demos — from **AI-powered applications and backend systems to databases and production-oriented engineering infrastructure**.
+I enjoy building software that goes beyond model demos from **AI-powered applications and backend systems to databases and production-oriented engineering infrastructure**.
 
 My current focus is on building systems that are:
 
-*  **Reliable** — designed with clear abstractions and engineering discipline
-*  **Scalable** — built around APIs, caching, storage and modular architectures
-*  **Intelligent** — using ML, LLMs and retrieval where they actually add value
-*  **Measurable** — evaluated through benchmarks, latency and system metrics
-*  **Production-oriented** — tested, containerized and automated where possible
+*  **Reliable** : designed with clear abstractions and engineering discipline
+*  **Scalable** : built around APIs, caching, storage and modular architectures
+*  **Intelligent** : using ML, LLMs and retrieval where they actually add value
+*  **Measurable** : evaluated through benchmarks, latency and system metrics
+*  **Production-oriented** : tested, containerized and automated where possible
 
-> **I like understanding what happens underneath the abstraction — and then building it myself.**
+> **I like understanding what happens underneath the abstraction and then building it myself.**
 
 ---
 
