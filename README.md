@@ -3,10 +3,10 @@
 <p align="center">
   <img src="./Recheck.jpg" alt="Rahul Takale at Indradhanu Grand Finale" width="100%" />
 </p>
-  # Rahul Takale | AI Engineer & Systems Builder
 
 <p align="center">
-   <b>Rahul Takale | AI Engineer & Systems Builder</b>
+   <b>Rahul Takale | AI Engineer & Systems Builder</b> 
+  <br>
   <b>AI Engineer · Backend Developer · Systems & Database Engineering · Applied ML</b>
 </p>
 
