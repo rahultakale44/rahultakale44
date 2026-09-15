@@ -33,11 +33,6 @@ My current focus is on building systems that are:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahultakale44&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahultakale44&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahultakale44&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
