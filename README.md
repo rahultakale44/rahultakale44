@@ -71,7 +71,7 @@ My current focus is on building systems that are:
 
 ##  Systems I've Built
 
-###  ForgeDB — Lightweight Database Engine
+###  ForgeDB : Lightweight Database Engine
 
 A **C++20 database engine built from scratch**, focused on understanding database internals rather than using an existing database abstraction.
 
@@ -93,7 +93,7 @@ A **C++20 database engine built from scratch**, focused on understanding databas
 
 ---
 
-###  Nexora — Semantic Knowledge Orchestration Platform
+###  Nexora : Semantic Knowledge Orchestration Platform
 
 An enterprise-oriented semantic knowledge system combining multiple retrieval and reasoning strategies.
 
@@ -213,9 +213,4 @@ A probabilistic media-revenue forecasting platform developed during the **NetEli
 
 ---
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahultakale44/rahultakale44/output/github-contribution-grid-snake.svg" />
-</p>
 
