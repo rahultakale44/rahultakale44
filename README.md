@@ -6,6 +6,7 @@
   # Rahul Takale | AI Engineer & Systems Builder
 
 <p align="center">
+   <b>Rahul Takale | AI Engineer & Systems Builder</b>
   <b>AI Engineer · Backend Developer · Systems & Database Engineering · Applied ML</b>
 </p>
 
