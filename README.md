@@ -1,4 +1,9 @@
-# Rahul Takale | AI Engineer & Systems Builder
+
+<div align="center">
+<p align="center">
+  <img src="./Recheck.jpg" alt="Rahul Takale at Indradhanu Grand Finale" width="100%" />
+</p>
+  # Rahul Takale | AI Engineer & Systems Builder
 
 <p align="center">
   <b>AI Engineer · Backend Developer · Systems & Database Engineering · Applied ML</b>
@@ -8,15 +13,7 @@
   <a href="https://rahultakale.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/rahultakale/">LinkedIn</a> ·
   <a href="mailto:rahultakale698@gmail.com">Email</a>
-  <img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=238636&style=flat-square" alt="Profile views"/>
-</p>
-
----
-
-##  About Me
-<div align="center">
-<p align="center">
-  <img src="./Recheck.jpg" alt="Rahul Takale at Indradhanu Grand Finale" width="100%" />
+  
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=850&height=45&lines=AI+Engineer+%26+Backend+Developer;Building+Spring+Boot+%2B+React+Applications;Creating+RAG%2C+LLM+and+Computer+Vision+Systems;Learning%2C+Building+and+Improving+Every+Day" alt="Typing SVG" />
 <br/>
