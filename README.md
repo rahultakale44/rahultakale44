@@ -30,13 +30,14 @@ My current focus is on building systems that are:
 
 <p><b><h3>Tech Stack I'm working upon,</h3></b></p>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------                                         
-**Languages:** Java · C++ · Python · JavaScript · SQL <br>
-**Frontend:** React.js · HTML5 · CSS3 · Tailwind CSS <br>
-**Backend:** FastAPI · Spring Boot · Node.js · Express.js <br>
-**Databases:** MySQL · MongoDB · QdrantDB · ChromaDB · Firebase <br>
-**AI / ML:** Machine Learning · NLP · LLMs · RAG · LangChain · Hugging Face <br>
-**Tools & Cloud:** Git · Docker · GitHub · Postman · AWS <br>
-**CS Fundamentals:** OOP · DBMS · Operating Systems · Computer Networks · SDLC <br>
+Languages: Java · C++ · Python · JavaScript · SQL <br>
+Frontend: React.js · HTML5 · CSS3 · Tailwind CSS <br>
+Backend: FastAPI · Spring Boot · Node.js · Express.js <br>
+Databases: MySQL · MongoDB · QdrantDB · ChromaDB · Firebase <br>
+AI / ML: Machine Learning · NLP · LLMs · RAG · LangChain · Hugging Face <br>
+Tools & Cloud: Git · Docker · GitHub · Postman · AWS <br>
+CS Fundamentals: OOP · DBMS · Operating Systems · Computer Networks · SDLC <br>
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p><b>Thank you for visiting! If you want to contribute, feel free to fork the repo, open an issue, or submit a pull request.<br> Let's build something awesome together!
 </b></p>
