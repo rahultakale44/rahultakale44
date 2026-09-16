@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-   <b>Rahul Takale | AI Engineer & Systems Builder</b> 
+   <b>Rahul Takale</b> 
   <br>
   <b>AI Engineer · Backend Developer · Systems & Database Engineering · Applied ML</b>
 </p>
