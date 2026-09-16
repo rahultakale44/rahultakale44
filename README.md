@@ -28,7 +28,7 @@ My current focus is on building systems that are:
 
 > **I like understanding what happens underneath the abstraction and then building it myself.**
 
-<p><b><h2>Tech Stack I'm working upon</h2>h2></b></p>
+<p><b><h3>Tech Stack I'm working upon</h3></b></p>
 
 **Languages:** Java · C++ · Python · JavaScript · SQL <br>
 **Frontend:** React.js · HTML5 · CSS3 · Tailwind CSS <br>
