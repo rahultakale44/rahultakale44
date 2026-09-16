@@ -15,7 +15,7 @@
 
 </div>
 
-I'm **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at **MIT Art, Design & Technology University**, Pune.
+Hello I'm **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at **MIT Art, Design & Technology University**, Pune.
 I enjoy building software that goes beyond model demos from **AI-powered applications and backend systems to databases and production-oriented engineering infrastructure**.
 
 My current focus is on building systems that are:
@@ -28,7 +28,7 @@ My current focus is on building systems that are:
 
 > **I like understanding what happens underneath the abstraction and then building it myself.**
 
-<p><b>Tech Stack I'm working upon</b></p>
+<p><b><h2>Tech Stack I'm working upon</h2>h2></b></p>
 
 **Languages:** Java · C++ · Python · JavaScript · SQL <br>
 **Frontend:** React.js · HTML5 · CSS3 · Tailwind CSS <br>
