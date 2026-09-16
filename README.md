@@ -31,17 +31,11 @@ My current focus is on building systems that are:
 # Tech Stack
 
 **Languages:** Java · C++ · Python · JavaScript · SQL
-
 **Frontend:** React.js · HTML5 · CSS3 · Tailwind CSS
-
 **Backend:** FastAPI · Spring Boot · Node.js · Express.js
-
 **Databases:** MySQL · MongoDB · QdrantDB · ChromaDB · Firebase
-
 **AI / ML:** Machine Learning · NLP · LLMs · RAG · LangChain · Hugging Face
-
 **Tools & Cloud:** Git · Docker · GitHub · Postman · AWS
-
 **CS Fundamentals:** OOP · DBMS · Operating Systems · Computer Networks · SDLC
 
 <p align="center">
