@@ -14,7 +14,6 @@
 </p>
 
 </div>
--------------------------------------------------------------------------------------------------------------------------
 
 Hello I'm **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at **MIT Art, Design & Technology University**, Pune.
 I enjoy building software that goes beyond model demos from **AI-powered applications and backend systems to databases and production-oriented engineering infrastructure**.
@@ -28,10 +27,9 @@ My current focus is on building systems that are:
 *  **Production-oriented** : tested, containerized and automated where possible
 
 > **I like understanding what happens underneath the abstraction and then building it myself.**
-> -----------------------------------------------------------------------------------------------------------------------
 
 <p><b><h3>Tech Stack I'm working upon,</h3></b></p>
--------------------------------------------------------------------------------------------------------------------------                                          
+---------------------------------------------------------------------------------------------------------------------------------------------------------------                                         
 **Languages:** Java · C++ · Python · JavaScript · SQL <br>
 **Frontend:** React.js · HTML5 · CSS3 · Tailwind CSS <br>
 **Backend:** FastAPI · Spring Boot · Node.js · Express.js <br>
@@ -39,7 +37,7 @@ My current focus is on building systems that are:
 **AI / ML:** Machine Learning · NLP · LLMs · RAG · LangChain · Hugging Face <br>
 **Tools & Cloud:** Git · Docker · GitHub · Postman · AWS <br>
 **CS Fundamentals:** OOP · DBMS · Operating Systems · Computer Networks · SDLC <br>
--------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p><b>Thank you for visiting! If you want to contribute, feel free to fork the repo, open an issue, or submit a pull request.<br> Let's build something awesome together!
 </b></p>
 
