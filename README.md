@@ -28,15 +28,21 @@ My current focus is on building systems that are:
 
 > **I like understanding what happens underneath the abstraction and then building it myself.**
 
-<b>Tech Stack</b>
+# Tech Stack
 
-Languages: Java · C++ · Python · JavaScript · SQL
-Frontend: React.js · HTML5 · CSS3 · Tailwind CSS
-Backend: FastAPI · Spring Boot · Node.js · Express.js
-Databases: MySQL, MongoDB, QdrantDB, ChromoDB, Firebase
-AI / ML: Machine Learning · NLP · LLMs · RAG · LangChain · Hugging Face
-Tools & Cloud: Git · Docker · GitHub · Postman · AWS
-CS Fundamentals: OOP · DBMS · Operating Systems · Computer Networks · SDLC
+**Languages:** Java · C++ · Python · JavaScript · SQL
+
+**Frontend:** React.js · HTML5 · CSS3 · Tailwind CSS
+
+**Backend:** FastAPI · Spring Boot · Node.js · Express.js
+
+**Databases:** MySQL · MongoDB · QdrantDB · ChromaDB · Firebase
+
+**AI / ML:** Machine Learning · NLP · LLMs · RAG · LangChain · Hugging Face
+
+**Tools & Cloud:** Git · Docker · GitHub · Postman · AWS
+
+**CS Fundamentals:** OOP · DBMS · Operating Systems · Computer Networks · SDLC
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=0e75b6&style=flat" />
