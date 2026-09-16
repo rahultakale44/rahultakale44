@@ -17,7 +17,6 @@
 </div>
 
 Hello I'm **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at **MIT Art, Design & Technology University**, Pune.
-
 I enjoy building software that goes beyond model demos from **AI-powered applications and backend systems to databases and production-oriented engineering infrastructure**.
 
 My current focus is on building systems that are:
