@@ -48,6 +48,8 @@ Thank you for visiting! If you want to contribute, feel free to fork the repo, o
 Let's build something awesome together!
 </b></p>
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Winners%20Win%20SON!!&author=Andrew%20Tate)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
