@@ -25,10 +25,6 @@ I am **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at *
 <table>
 <tr>
 
-<td width="50%" valign="top">
-
-<h2>Areas of Focus</h2>
-
 <table width="100%">
 <tr>
 <th width="38%">Area</th>
@@ -37,31 +33,29 @@ I am **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at *
 
 <tr>
 <td><b>Backend Engineering</b></td>
-<td>Java · Spring Boot · REST APIs · Node.js · Express.js</td>
+<td>Java · Spring Boot · REST APIs ·<br>Node.js · Express.js</td>
 </tr>
 
 <tr>
 <td><b>Systems & Databases</b></td>
-<td>C++ · Database Internals · Storage · Indexing · MySQL · MongoDB</td>
+<td>C++ · Database Internals · Storage ·<br>Indexing · MySQL · MongoDB</td>
 </tr>
 
 <tr>
 <td><b>Data Analytics & BI</b></td>
-<td>SQL · Power BI · Data Cleaning · Data Modelling · KPIs</td>
+<td>SQL · Power BI · Data Cleaning ·<br>Data Modelling · KPIs</td>
 </tr>
 
 <tr>
 <td><b>AI & Machine Learning</b></td>
-<td>Machine Learning · Computer Vision · NLP · LLM Applications</td>
+<td>Machine Learning · Computer Vision ·<br>NLP · LLM Applications</td>
 </tr>
 
 <tr>
 <td><b>Full-Stack Development</b></td>
-<td>React.js · JavaScript · Backend APIs · Database Integration</td>
+<td>React.js · JavaScript · Backend APIs ·<br>Database Integration</td>
 </tr>
-
 </table>
-
 </td>
 
 <td width="50%" valign="top">
