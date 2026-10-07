@@ -22,6 +22,10 @@ I am **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at *
 
 ---
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ## Areas of Focus
 
 | Area | Focus |
@@ -32,21 +36,25 @@ I am **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at *
 | **AI & Machine Learning** | Machine Learning · Computer Vision · NLP · LLM Applications |
 | **Full-Stack Development** | React.js · JavaScript · Backend APIs · Database Integration |
 
----
+</td>
+
+<td width="45%" valign="top">
 
 ## Certifications
 
-| Certification | Credential |
+| Certification | |
 |---|---|
-| **Microsoft Power BI Data Analyst Professional Certificate** | [View Certificate](https://coursera.org/share/79e1fe290dd6bc9e4eb01c56efc0a315) |
-| **Snowflake Data Engineering Professional Certificate** | [View Certificate](https://coursera.org/share/339e6676a7a7751ae56f726e27e3fb57) |
-| **IBM RAG and Agentic AI Professional Certificate** | [View Certificate](https://coursera.org/share/484776f5b1ec9ada9e2ebf064a1c4c5e) |
-| **IBM Generative AI Engineering Professional Certificate** | [View Certificate](https://coursera.org/share/e0a7794370e3308ead347b24327b273d) |
-| **IBM Machine Learning Professional Certificate** | [View Certificate](https://coursera.org/share/681d7277fe42ffba9ec732b3759ac7c3) |
-| **AWS Academy Graduate - Cloud Foundations - Training Badge** | [View Credential](https://www.credly.com/badges/cb4757b3-5f88-4923-b15a-e50dd3136094/linked_in_profile) |
-| **Introduction to Cybersecurity** | [View Credential](https://www.credly.com/badges/02114ef2-4606-4963-9186-a66ce5d021de/linked_in_profile) |
+| **Microsoft Power BI Data Analyst** | [View](https://coursera.org/share/79e1fe290dd6bc9e4eb01c56efc0a315) |
+| **Snowflake Data Engineering** | [View](https://coursera.org/share/339e6676a7a7751ae56f726e27e3fb57) |
+| **IBM RAG & Agentic AI** | [View](https://coursera.org/share/484776f5b1ec9ada9e2ebf064a1c4c5e) |
+| **IBM Generative AI Engineering** | [View](https://coursera.org/share/e0a7794370e3308ead347b24327b273d) |
+| **IBM Machine Learning** | [View](https://coursera.org/share/681d7277fe42ffba9ec732b3759ac7c3) |
+| **AWS Cloud Foundations** | [View](https://www.credly.com/badges/cb4757b3-5f88-4923-b15a-e50dd3136094/linked_in_profile) |
+| **Introduction to Cybersecurity** | [View](https://www.credly.com/badges/02114ef2-4606-4963-9186-a66ce5d021de/linked_in_profile) |
 
----
+</td>
+</tr>
+</table>
 
 ## Selected Projects
 
