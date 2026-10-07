@@ -15,7 +15,6 @@
 </p>
 
 </div>
----
 
 I am **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at **MIT Art, Design & Technology University, Pune**. I build software across **backend engineering, databases, AI/ML applications, and data analytics**, with an interest in understanding systems beyond high-level abstractions. My current work focuses on **Java/Spring Boot, Python, SQL, Power BI, REST APIs, databases, machine learning, and full-stack application development**.
 
@@ -60,67 +59,6 @@ I am **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at *
 | **GarageMate** | Hyperlocal roadside assistance and garage discovery platform with GPS-based nearby garage search, multi-role dashboards, mechanic assignment, and service workflows. | React · TypeScript · APIs |
 | **RidgeLens** | Contactless fingerprint quality assessment and capture-guidance system using computer vision. | Python · OpenCV · Streamlit |
 | **CampusCare** | Campus complaint management platform with student/admin workflows, complaint tracking, authentication, role-based access, and database integration. | React · Spring Boot · Java · MySQL |
-
----
-
-## Engineering Stack
-
-> I prefer understanding the system as a whole — from the interface a user touches
-> to the data, services, infrastructure, and intelligence behind it.
-
-<table>
-<tr>
-<td width="20%"><b>01 · APPLICATION</b></td>
-<td>React.js · HTML5 · CSS3 · Tailwind CSS · JavaScript</td>
-</tr>
-<tr>
-<td><b>02 · SERVICES</b></td>
-<td>Java · Spring Boot · Node.js · Express.js · FastAPI · REST APIs</td>
-</tr>
-<tr>
-<td><b>03 · DATA</b></td>
-<td>MySQL · MongoDB · Firebase · SQL</td>
-</tr>
-<tr>
-<td><b>04 · INTELLIGENCE</b></td>
-<td>Machine Learning · Computer Vision · NLP · LLMs · RAG · Hugging Face</td>
-</tr>
-<tr>
-<td><b>05 · ANALYTICS</b></td>
-<td>Power BI · Pandas · NumPy · Matplotlib</td>
-</tr>
-<tr>
-<td><b>06 · ENGINEERING</b></td>
-<td>Git · GitHub · Docker · Postman · AWS</td>
-</tr>
-<tr>
-<td><b>07 · FOUNDATIONS</b></td>
-<td>OOP · DBMS · Operating Systems · Computer Networks · SDLC</td>
-</tr>
-</table>
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahultakale44&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahultakale44&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-
-<a href="https://github.com/rahultakale44">
-  <img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
-
-</p>
-
-<br>
-
 ---
 
 <p align="center">
