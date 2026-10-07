@@ -158,14 +158,30 @@ high-level abstractions.
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="middle">
-<h3>Thank you for taking the time to explore my work.</h3>
-<p><i>"Winners Win SON!!"</i><br><b> Andrew Tate</b></p>
-<p><i>"Stay Hard!!"</i><br><b> David Goggins</b></p>
+
+### Thank you for taking the time to explore my work.
+
+> *"Winners Win SON!!"*
+> **— Andrew Tate**
+>
+> *"Stay Hard!!"*
+> **— David Goggins**
+
 <br>
+
 <img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
 </td>
 <td width="50%" align="center" valign="middle">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahultakale44&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
+
 </td>
+</tr>
+</table>
+<br>
+
+</td>
+
 </tr>
 </table>
