@@ -27,7 +27,7 @@ I am **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at *
 
 <td width="50%" valign="top">
 
-<h2>Areas of Focus</h2>
+<h2>Engineering Focus & Development Toolkit</h2>
 
 <table width="100%">
 <tr>
