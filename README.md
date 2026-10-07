@@ -1,26 +1,49 @@
-<div align="center">
+<table width="100%">
+<tr>
 
-<p align="center">
-  <img src="./Recheck.jpg" alt="Rahul Takale at Indradhanu Grand Finale" width="100%" />
+<td width="50%" align="center" valign="middle">
+
+<img src="./Recheck.jpg"
+     alt="Rahul Takale"
+     width="590" />
+
+<p>
+<b>AI Engineer · Backend Developer</b>
 </p>
 
 <p>
-  <b>AI Engineer · Backend Developer · Systems & Database Engineering · Data Analytics & BI</b>
+<a href="https://rahultakale.vercel.app/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/rahultakale/">LinkedIn</a> ·
+<a href="mailto:rahultakale698@gmail.com">Email</a>
+</p>
+
+</td>
+
+<td width="68%" valign="middle">
+
+<p>
+I am <b>Rahul Takale</b>, a final-year <b>B.Tech CSE (AI & Analytics)</b>
+student at <b>MIT Art, Design & Technology University, Pune</b>.
+I build software across <b>backend engineering, databases, AI/ML applications,
+and data analytics</b>, with an interest in understanding systems beyond
+high-level abstractions.
 </p>
 
 <p>
-  <a href="https://rahultakale.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/rahultakale/">LinkedIn</a> ·
-  <a href="mailto:rahultakale698@gmail.com">Email</a>
+My current work focuses on <b>Java/Spring Boot, Python, SQL, Power BI,
+REST APIs, databases, machine learning, and full-stack application development.</b>
 </p>
 
-</div>
+<blockquote>
+<b>I like understanding what happens underneath the abstraction and then building it myself.</b>
+</blockquote>
 
-I am **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at **MIT Art, Design & Technology University, Pune**. I build software across **backend engineering, databases, AI/ML applications, and data analytics**, with an interest in understanding systems beyond high-level abstractions. My current work focuses on **Java/Spring Boot, Python, SQL, Power BI, REST APIs, databases, machine learning, and full-stack application development**.
+</td>
 
-> **I like understanding what happens underneath the abstraction and then building it myself.**
+</tr>
+</table>
 
----
+<hr>
 
 <table width="100%">
 <tr>
