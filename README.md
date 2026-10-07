@@ -24,33 +24,75 @@ I am **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at *
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-## Areas of Focus
+<h2>Areas of Focus</h2>
 
-| Area | Focus |
-|---|---|
-| **Backend Engineering** | Java · Spring Boot · REST APIs · Node.js · Express.js |
-| **Systems & Databases** | C++ · Database Internals · Storage · Indexing · MySQL · MongoDB |
-| **Data Analytics & BI** | SQL · Power BI · Data Cleaning · Data Modelling · KPIs |
-| **AI & Machine Learning** | Machine Learning · Computer Vision · NLP · LLM Applications |
-| **Full-Stack Development** | React.js · JavaScript · Backend APIs · Database Integration |
+<p>
+<b>Backend Engineering</b><br>
+Java · Spring Boot · REST APIs · Node.js · Express.js
+</p>
+
+<p>
+<b>Systems & Databases</b><br>
+C++ · Database Internals · Storage · Indexing · MySQL · MongoDB
+</p>
+
+<p>
+<b>Data Analytics & BI</b><br>
+SQL · Power BI · Data Cleaning · Data Modelling · KPIs
+</p>
+
+<p>
+<b>AI & Machine Learning</b><br>
+Machine Learning · Computer Vision · NLP · LLM Applications
+</p>
+
+<p>
+<b>Full-Stack Development</b><br>
+React.js · JavaScript · Backend APIs · Database Integration
+</p>
 
 </td>
 
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-## Certifications
+<h2>Certifications</h2>
 
-| Certification | |
-|---|---|
-| **Microsoft Power BI Data Analyst** | [View](https://coursera.org/share/79e1fe290dd6bc9e4eb01c56efc0a315) |
-| **Snowflake Data Engineering** | [View](https://coursera.org/share/339e6676a7a7751ae56f726e27e3fb57) |
-| **IBM RAG & Agentic AI** | [View](https://coursera.org/share/484776f5b1ec9ada9e2ebf064a1c4c5e) |
-| **IBM Generative AI Engineering** | [View](https://coursera.org/share/e0a7794370e3308ead347b24327b273d) |
-| **IBM Machine Learning** | [View](https://coursera.org/share/681d7277fe42ffba9ec732b3759ac7c3) |
-| **AWS Cloud Foundations** | [View](https://www.credly.com/badges/cb4757b3-5f88-4923-b15a-e50dd3136094/linked_in_profile) |
-| **Introduction to Cybersecurity** | [View](https://www.credly.com/badges/02114ef2-4606-4963-9186-a66ce5d021de/linked_in_profile) |
+<p>
+<b>Microsoft Power BI Data Analyst</b><br>
+<a href="https://coursera.org/share/79e1fe290dd6bc9e4eb01c56efc0a315">View Certificate</a>
+</p>
+
+<p>
+<b>Snowflake Data Engineering</b><br>
+<a href="https://coursera.org/share/339e6676a7a7751ae56f726e27e3fb57">View Certificate</a>
+</p>
+
+<p>
+<b>IBM RAG & Agentic AI</b><br>
+<a href="https://coursera.org/share/484776f5b1ec9ada9e2ebf064a1c4c5e">View Certificate</a>
+</p>
+
+<p>
+<b>IBM Generative AI Engineering</b><br>
+<a href="https://coursera.org/share/e0a7794370e3308ead347b24327b273d">View Certificate</a>
+</p>
+
+<p>
+<b>IBM Machine Learning</b><br>
+<a href="https://coursera.org/share/681d7277fe42ffba9ec732b3759ac7c3">View Certificate</a>
+</p>
+
+<p>
+<b>AWS Cloud Foundations</b><br>
+<a href="https://www.credly.com/badges/cb4757b3-5f88-4923-b15a-e50dd3136094/linked_in_profile">View Credential</a>
+</p>
+
+<p>
+<b>Introduction to Cybersecurity</b><br>
+<a href="https://www.credly.com/badges/02114ef2-4606-4963-9186-a66ce5d021de/linked_in_profile">View Credential</a>
+</p>
 
 </td>
 </tr>
