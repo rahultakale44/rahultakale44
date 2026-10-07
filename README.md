@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Data Analyst · Power BI · SQL · AI & Analytics · Backend Engineering</b>
+  <b>AI Engineer · Backend Developer · Systems & Database Engineering · Data Analytics & BI · Applied ML</b>
 </p>
 
 <p align="center">
@@ -16,88 +16,28 @@
 
 </div>
 
-Hello, I'm **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at **MIT Art, Design & Technology University**, Pune.
+Hello I'm **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at **MIT Art, Design & Technology University**, Pune.
+I enjoy building software that goes beyond model demos from **AI-powered applications and backend systems to databases and production-oriented engineering infrastructure**.
 
-I enjoy working with **data, software systems, and analytical applications** — from building **Power BI dashboards and SQL-based analytics solutions** to developing backend systems, databases, and AI-powered applications.
+I also have a strong interest in **Data Analytics and Business Intelligence**, working with **Power BI, SQL, data visualization, data cleaning, and analytical reporting**. I am exploring **data mining, ETL workflows, data warehousing, and data-driven decision making** through analytics projects.
 
-### Areas of Interest
+My current work includes building **SQL-based analytical solutions and Power BI dashboards**, transforming raw datasets into validated data models, KPIs, visualizations, and actionable insights.
 
-- **Data Analytics & BI:** Power BI, SQL, Data Analysis, Data Visualization, Excel
-- **Data Engineering:** Data Cleaning, ETL, Data Mining, Data Warehousing, Data Validation
-- **AI & Analytics:** Machine Learning, Applied AI, Statistical Analysis
-- **Backend Engineering:** Java, Spring Boot, Python, REST APIs, Node.js
-- **Databases:** MySQL, MongoDB, Database Design, SQL Analytics
-- **Engineering:** Git, GitHub, Testing, APIs, Modular System Design
+My current focus is on building systems that are:
 
-My current focus is on building systems and analytical solutions that are:
-
-* **Data-driven** — transforming raw data into meaningful insights
-* **Reliable** — designed with clear abstractions and engineering discipline
-* **Measurable** — evaluated through meaningful metrics and analytical KPIs
-* **Scalable** — built around APIs, databases, and modular architectures
-* **Production-oriented** — tested, documented, and automated where appropriate
+* **Reliable** : designed with clear abstractions and engineering discipline
+* **Scalable** : built around APIs, caching, storage and modular architectures
+* **Intelligent** : using ML, LLMs and retrieval where they actually add value
+* **Measurable** : evaluated through benchmarks, latency and system metrics
+* **Production-oriented** : tested, containerized and automated where possible
 
 > **I like understanding what happens underneath the abstraction and then building it myself.**
 
 ---
 
 <p><b>
-Thank you for visiting! If you want to explore my work, feel free to check out my repositories, projects, and contributions.<br>
-Let's build something meaningful with data and technology!
-</b></p>
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Winners%20Win%20SON!!&author=Andrew%20Tate&theme=dark&quote_color=00d8ff&author_color=ff0055)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----<div align="center">
-
-<p align="center">
-  <img src="./Recheck.jpg" alt="Rahul Takale at Indradhanu Grand Finale" width="100%" />
-</p>
-
-<p align="center">
-  <b>Data Analyst · Power BI · SQL · AI & Analytics · Backend Engineering</b>
-</p>
-
-<p align="center">
-  <a href="https://rahultakale.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/rahultakale/">LinkedIn</a> ·
-  <a href="mailto:rahultakale698@gmail.com">Email</a>
-</p>
-
-</div>
-
-Hello, I'm **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at **MIT Art, Design & Technology University**, Pune.
-
-I enjoy working with **data, software systems, and analytical applications** — from building **Power BI dashboards and SQL-based analytics solutions** to developing backend systems, databases, and AI-powered applications.
-
-### Areas of Interest
-
-- **Data Analytics & BI:** Power BI, SQL, Data Analysis, Data Visualization, Excel
-- **Data Engineering:** Data Cleaning, ETL, Data Mining, Data Warehousing, Data Validation
-- **AI & Analytics:** Machine Learning, Applied AI, Statistical Analysis
-- **Backend Engineering:** Java, Spring Boot, Python, REST APIs, Node.js
-- **Databases:** MySQL, MongoDB, Database Design, SQL Analytics
-- **Engineering:** Git, GitHub, Testing, APIs, Modular System Design
-
-My current focus is on building systems and analytical solutions that are:
-
-* **Data-driven** — transforming raw data into meaningful insights
-* **Reliable** — designed with clear abstractions and engineering discipline
-* **Measurable** — evaluated through meaningful metrics and analytical KPIs
-* **Scalable** — built around APIs, databases, and modular architectures
-* **Production-oriented** — tested, documented, and automated where appropriate
-
-> **I like understanding what happens underneath the abstraction and then building it myself.**
-
----
-
-<p><b>
-Thank you for visiting! If you want to explore my work, feel free to check out my repositories, projects, and contributions.<br>
-Let's build something meaningful with data and technology!
+Thank you for visiting! If you want to contribute, feel free to fork the repo, open an issue, or submit a pull request.<br>
+Let's build something awesome together!
 </b></p>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Winners%20Win%20SON!!&author=Andrew%20Tate&theme=dark&quote_color=00d8ff&author_color=ff0055)
