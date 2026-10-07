@@ -20,7 +20,6 @@
 <a href="mailto:rahultakale698@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://rahultakale.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://codolio.com/profile/scholar44"><img src="https://img.shields.io/badge/CODOLIO-1E1E2E?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" /></a>
-<a href="https://medium.com/@rahultakale08"><img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 </p>
 
