@@ -3,9 +3,6 @@
 <p align="center">
   <img src="./Recheck.jpg" alt="Rahul Takale at Indradhanu Grand Finale" width="100%" />
 </p>
-
-<h2>Rahul Takale</h2>
-
 <p>
   <b>AI Engineer · Backend Developer · Systems & Database Engineering · Data Analytics & BI</b>
 </p>
@@ -18,10 +15,7 @@
 </p>
 
 </div>
-
 ---
-
-## About Me
 
 I am **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at **MIT Art, Design & Technology University, Pune**. I build software across **backend engineering, databases, AI/ML applications, and data analytics**, with an interest in understanding systems beyond high-level abstractions. My current work focuses on **Java/Spring Boot, Python, SQL, Power BI, REST APIs, databases, machine learning, and full-stack application development**.
 
@@ -69,42 +63,41 @@ I am **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at *
 
 ---
 
-## Technical Stack
+## Engineering Stack
 
-**Languages:**  
-Java · C++ · Python · JavaScript · SQL
+> I prefer understanding the system as a whole — from the interface a user touches
+> to the data, services, infrastructure, and intelligence behind it.
 
-**Backend:**  
-Spring Boot · Node.js · Express.js · FastAPI · REST APIs
-
-**Frontend:**  
-React.js · HTML5 · CSS3 · Tailwind CSS
-
-**Databases:**  
-MySQL · MongoDB · Firebase
-
-**Data & Analytics:**  
-Power BI · SQL · Pandas · NumPy · Matplotlib
-
-**AI / ML:**  
-Machine Learning · Computer Vision · NLP · LLMs · RAG · Hugging Face
-
-**Tools & Platforms:**  
-Git · GitHub · Docker · Postman · AWS
-
-**Core Computer Science:**  
-OOP · DBMS · Operating Systems · Computer Networks · SDLC
-
----
-
-## Engineering Approach
-
-- **Build from fundamentals** — understand the underlying system before relying on abstractions.
-- **Keep systems practical** — choose technologies based on the problem rather than adding unnecessary complexity.
-- **Measure what matters** — focus on correctness, performance, reliability, and maintainability.
-- **Learn by building** — convert concepts into working projects and production-oriented implementations.
-
----
+<table>
+<tr>
+<td width="20%"><b>01 · APPLICATION</b></td>
+<td>React.js · HTML5 · CSS3 · Tailwind CSS · JavaScript</td>
+</tr>
+<tr>
+<td><b>02 · SERVICES</b></td>
+<td>Java · Spring Boot · Node.js · Express.js · FastAPI · REST APIs</td>
+</tr>
+<tr>
+<td><b>03 · DATA</b></td>
+<td>MySQL · MongoDB · Firebase · SQL</td>
+</tr>
+<tr>
+<td><b>04 · INTELLIGENCE</b></td>
+<td>Machine Learning · Computer Vision · NLP · LLMs · RAG · Hugging Face</td>
+</tr>
+<tr>
+<td><b>05 · ANALYTICS</b></td>
+<td>Power BI · Pandas · NumPy · Matplotlib</td>
+</tr>
+<tr>
+<td><b>06 · ENGINEERING</b></td>
+<td>Git · GitHub · Docker · Postman · AWS</td>
+</tr>
+<tr>
+<td><b>07 · FOUNDATIONS</b></td>
+<td>OOP · DBMS · Operating Systems · Computer Networks · SDLC</td>
+</tr>
+</table>
 
 ## GitHub Activity
 
@@ -128,7 +121,20 @@ OOP · DBMS · Operating Systems · Computer Networks · SDLC
 
 <br>
 
+---
+
+<p align="center">
+  <b>Thank you for taking the time to explore my work.</b><br>
+  <sub>Every project is an opportunity to understand deeper, build better, and keep improving.</sub>
+</p>
+
+<br>
+
 <p align="center">
   <i>"Stay Hard."</i><br>
   <b>David Goggins</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
