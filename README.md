@@ -30,8 +30,7 @@ Hi, I am <b>Rahul Takale</b>, a final-year <b>B.Tech CSE (AI & Analytics)</b>
 student at <b>MIT Art, Design & Technology University, Pune</b>.
 I build software across <b>backend engineering, databases, AI/ML applications,
 and data analytics</b>, with an interest in understanding systems beyond
-high-level abstractions. My current work focuses on <b>Java/Spring Boot, Python, SQL, Power BI,
-REST APIs, databases, machine learning, and full-stack application development.
+high-level abstractions.
 </p>
 </td>
 
