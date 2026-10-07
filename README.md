@@ -24,34 +24,43 @@ I am **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at *
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 <h2>Areas of Focus</h2>
 
-<p>
-<b>Backend Engineering</b><br>
-Java · Spring Boot · REST APIs · Node.js · Express.js
-</p>
+<table width="100%">
+<tr>
+<th width="38%">Area</th>
+<th width="62%">Focus</th>
+</tr>
 
-<p>
-<b>Systems & Databases</b><br>
-C++ · Database Internals · Storage · Indexing · MySQL · MongoDB
-</p>
+<tr>
+<td><b>Backend Engineering</b></td>
+<td>Java · Spring Boot · REST APIs · Node.js · Express.js</td>
+</tr>
 
-<p>
-<b>Data Analytics & BI</b><br>
-SQL · Power BI · Data Cleaning · Data Modelling · KPIs
-</p>
+<tr>
+<td><b>Systems & Databases</b></td>
+<td>C++ · Database Internals · Storage · Indexing · MySQL · MongoDB</td>
+</tr>
 
-<p>
-<b>AI & Machine Learning</b><br>
-Machine Learning · Computer Vision · NLP · LLM Applications
-</p>
+<tr>
+<td><b>Data Analytics & BI</b></td>
+<td>SQL · Power BI · Data Cleaning · Data Modelling · KPIs</td>
+</tr>
 
-<p>
-<b>Full-Stack Development</b><br>
-React.js · JavaScript · Backend APIs · Database Integration
-</p>
+<tr>
+<td><b>AI & Machine Learning</b></td>
+<td>Machine Learning · Computer Vision · NLP · LLM Applications</td>
+</tr>
+
+<tr>
+<td><b>Full-Stack Development</b></td>
+<td>React.js · JavaScript · Backend APIs · Database Integration</td>
+</tr>
+
+</table>
 
 </td>
 
@@ -59,42 +68,50 @@ React.js · JavaScript · Backend APIs · Database Integration
 
 <h2>Certifications</h2>
 
-<p>
-<b>Microsoft Power BI Data Analyst</b><br>
-<a href="https://coursera.org/share/79e1fe290dd6bc9e4eb01c56efc0a315">View Certificate</a>
-</p>
+<table width="100%">
+<tr>
+<th>Certification</th>
+</tr>
 
-<p>
-<b>Snowflake Data Engineering</b><br>
-<a href="https://coursera.org/share/339e6676a7a7751ae56f726e27e3fb57">View Certificate</a>
-</p>
+<tr>
+<td><b>Microsoft Power BI Data Analyst</b><br>
+<a href="https://coursera.org/share/79e1fe290dd6bc9e4eb01c56efc0a315">View Certificate</a></td>
+</tr>
 
-<p>
-<b>IBM RAG & Agentic AI</b><br>
-<a href="https://coursera.org/share/484776f5b1ec9ada9e2ebf064a1c4c5e">View Certificate</a>
-</p>
+<tr>
+<td><b>Snowflake Data Engineering</b><br>
+<a href="https://coursera.org/share/339e6676a7a7751ae56f726e27e3fb57">View Certificate</a></td>
+</tr>
 
-<p>
-<b>IBM Generative AI Engineering</b><br>
-<a href="https://coursera.org/share/e0a7794370e3308ead347b24327b273d">View Certificate</a>
-</p>
+<tr>
+<td><b>IBM RAG & Agentic AI</b><br>
+<a href="https://coursera.org/share/484776f5b1ec9ada9e2ebf064a1c4c5e">View Certificate</a></td>
+</tr>
 
-<p>
-<b>IBM Machine Learning</b><br>
-<a href="https://coursera.org/share/681d7277fe42ffba9ec732b3759ac7c3">View Certificate</a>
-</p>
+<tr>
+<td><b>IBM Generative AI Engineering</b><br>
+<a href="https://coursera.org/share/e0a7794370e3308ead347b24327b273d">View Certificate</a></td>
+</tr>
 
-<p>
-<b>AWS Cloud Foundations</b><br>
-<a href="https://www.credly.com/badges/cb4757b3-5f88-4923-b15a-e50dd3136094/linked_in_profile">View Credential</a>
-</p>
+<tr>
+<td><b>IBM Machine Learning</b><br>
+<a href="https://coursera.org/share/681d7277fe42ffba9ec732b3759ac7c3">View Certificate</a></td>
+</tr>
 
-<p>
-<b>Introduction to Cybersecurity</b><br>
-<a href="https://www.credly.com/badges/02114ef2-4606-4963-9186-a66ce5d021de/linked_in_profile">View Credential</a>
-</p>
+<tr>
+<td><b>AWS Cloud Foundations</b><br>
+<a href="https://www.credly.com/badges/cb4757b3-5f88-4923-b15a-e50dd3136094/linked_in_profile">View Credential</a></td>
+</tr>
+
+<tr>
+<td><b>Introduction to Cybersecurity</b><br>
+<a href="https://www.credly.com/badges/02114ef2-4606-4963-9186-a66ce5d021de/linked_in_profile">View Credential</a></td>
+</tr>
+
+</table>
 
 </td>
+
 </tr>
 </table>
 
