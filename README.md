@@ -3,6 +3,7 @@
 <p align="center">
   <img src="./Recheck.jpg" alt="Rahul Takale at Indradhanu Grand Finale" width="100%" />
 </p>
+
 <p>
   <b>AI Engineer · Backend Developer · Systems & Database Engineering · Data Analytics & BI</b>
 </p>
@@ -10,8 +11,7 @@
 <p>
   <a href="https://rahultakale.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/rahultakale/">LinkedIn</a> ·
-  <a href="mailto:rahultakale698@gmail.com">Email</a> ·
-  <a href="https://github.com/rahultakale44">GitHub</a>
+  <a href="mailto:rahultakale698@gmail.com">Email</a>
 </p>
 
 </div>
@@ -22,13 +22,17 @@ I am **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at *
 
 ---
 
-<table>
+<table width="100%">
 <tr>
+
+<td width="50%" valign="top">
+
+<h2>Areas of Focus</h2>
 
 <table width="100%">
 <tr>
-<th width="38%">Area</th>
-<th width="62%">Focus</th>
+<th>Area</th>
+<th>Focus</th>
 </tr>
 
 <tr>
@@ -55,7 +59,9 @@ I am **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at *
 <td><b>Full-Stack Development</b></td>
 <td>React.js · JavaScript · Backend APIs ·<br>Database Integration</td>
 </tr>
+
 </table>
+
 </td>
 
 <td width="50%" valign="top">
@@ -65,41 +71,49 @@ I am **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at *
 <table width="100%">
 <tr>
 <th>Certification</th>
+<th>Credential</th>
 </tr>
 
 <tr>
-<td><b>Microsoft Power BI Data Analyst</b><br>
-<a href="https://coursera.org/share/79e1fe290dd6bc9e4eb01c56efc0a315">View Certificate</a></td>
+<td><b>Microsoft Power BI Data Analyst</b></td>
+<td><a href="https://coursera.org/share/79e1fe290dd6bc9e4eb01c56efc0a315">View</a></td>
 </tr>
 
 <tr>
-<td><b>Snowflake Data Engineering</b><br>
-<a href="https://coursera.org/share/339e6676a7a7751ae56f726e27e3fb57">View Certificate</a></td>
+<td><b>Snowflake Data Engineering</b></td>
+<td><a href="https://coursera.org/share/339e6676a7a7751ae56f726e27e3fb57">View</a></td>
 </tr>
 
 <tr>
-<td><b>IBM RAG & Agentic AI</b><br>
-<a href="https://coursera.org/share/484776f5b1ec9ada9e2ebf064a1c4c5e">View Certificate</a></td>
+<td><b>IBM RAG & Agentic AI</b></td>
+<td><a href="https://coursera.org/share/484776f5b1ec9ada9e2ebf064a1c4c5e">View</a></td>
 </tr>
 
 <tr>
-<td><b>IBM Generative AI Engineering</b><br>
-<a href="https://coursera.org/share/e0a7794370e3308ead347b24327b273d">View Certificate</a></td>
+<td><b>IBM Generative AI Engineering</b></td>
+<td><a href="https://coursera.org/share/e0a7794370e3308ead347b24327b273d">View</a></td>
 </tr>
 
 <tr>
-<td><b>IBM Machine Learning</b><br>
-<a href="https://coursera.org/share/681d7277fe42ffba9ec732b3759ac7c3">View Certificate</a></td>
+<td><b>IBM Machine Learning</b></td>
+<td><a href="https://coursera.org/share/681d7277fe42ffba9ec732b3759ac7c3">View</a></td>
 </tr>
 
 <tr>
-<td><b>AWS Cloud Foundations</b><br>
-<a href="https://www.credly.com/badges/cb4757b3-5f88-4923-b15a-e50dd3136094/linked_in_profile">View Credential</a></td>
+<td><b>AWS Cloud Foundations</b></td>
+<td><a href="https://www.credly.com/badges/cb4757b3-5f88-4923-b15a-e50dd3136094/linked_in_profile">View</a></td>
 </tr>
 
 <tr>
-<td><b>Introduction to Cybersecurity</b><br>
-<a href="https://www.credly.com/badges/02114ef2-4606-4963-9186-a66ce5d021de/linked_in_profile">View Credential</a></td>
+<td><b>Introduction to Cybersecurity</b></td>
+<td><a href="https://www.credly.com/badges/02114ef2-4606-4963-9186-a66ce5d021de/linked_in_profile">View</a></td>
+</tr>
+
+<tr>
+<td><b>Deloitte Australia - Data Analytics Job Simulation</b></td>
+<td>
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_ajCPSR92HjaoutXRF_1744686233843_completion_certificate.pdf">View</a>
+</td>
 </tr>
 
 </table>
@@ -109,17 +123,20 @@ I am **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at *
 </tr>
 </table>
 
+---
+
 ## Selected Projects
 
 | Project | What I Built | Technology |
 |---|---|---|
 | **ForgeDB** | Lightweight database engine built from scratch with persistent storage, 4KB pages, buffer pool management, LRU replacement, serialization, and B+ Tree indexing. | C++20 · CMake · GoogleTest |
-| **Q-MedTriage** | Hybrid Classical–Quantum AI system for chest X-ray medical image triage combining deep-learning features, SVM classification, Quantum ML, and retrieval-based medical information. | Python · SVM · Quantum ML · RAG |
+| **QMedTriage** | Hybrid Classical–Quantum AI system for chest X-ray medical image triage combining deep-learning features, SVM classification, Quantum ML, and retrieval-based medical information. | Python · SVM · Quantum ML · RAG |
 | **CreditPulse** | Business Intelligence solution for analysing credit-card customer behaviour, transaction patterns, and financial performance from raw datasets. | Python · SQL · Power BI |
 | **DocMate** | Full-stack healthcare appointment platform with authentication, doctor booking, dashboards, database integration, and responsive interfaces. | React · Node.js · Express · MongoDB |
 | **GarageMate** | Hyperlocal roadside assistance and garage discovery platform with GPS-based nearby garage search, multi-role dashboards, mechanic assignment, and service workflows. | React · TypeScript · APIs |
 | **RidgeLens** | Contactless fingerprint quality assessment and capture-guidance system using computer vision. | Python · OpenCV · Streamlit |
 | **CampusCare** | Campus complaint management platform with student/admin workflows, complaint tracking, authentication, role-based access, and database integration. | React · Spring Boot · Java · MySQL |
+
 ---
 
 <p align="center">
