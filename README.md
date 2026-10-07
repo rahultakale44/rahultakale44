@@ -16,11 +16,7 @@
 
 ## About Me
 
-Hello, I'm **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at **MIT Art, Design & Technology University, Pune**. I build software across **backend engineering, databases, AI applications, and full-stack systems**, with a focus on understanding how systems work beyond high-level abstractions.
-
-I also work with **SQL, Power BI, data visualization, data cleaning, ETL workflows, and analytical reporting**, turning raw data into structured models, dashboards, KPIs, and actionable insights.
-
-> **I like understanding what happens underneath the abstraction and then building it myself.**
+Hello, I'm **Rahul Takale**, a final-year **B.Tech CSE (AI & Analytics)** student at **MIT Art, Design & Technology University, Pune**. I build software across **backend engineering, databases, AI applications, and full-stack systems**, with a focus on understanding how systems work beyond high-level abstractions. I also work with **SQL, Power BI, data visualization, data cleaning, ETL workflows, and analytical reporting**, turning raw data into structured models, dashboards, KPIs, and actionable insights.
 
 ---
 
@@ -33,6 +29,9 @@ I also work with **SQL, Power BI, data visualization, data cleaning, ETL workflo
 | [IBM RAG and Agentic AI Professional Certificate](https://coursera.org/share/484776f5b1ec9ada9e2ebf064a1c4c5e) | [View Certificate](https://coursera.org/share/484776f5b1ec9ada9e2ebf064a1c4c5e) |
 | [IBM Generative AI Engineering Professional Certificate](https://coursera.org/share/e0a7794370e3308ead347b24327b273d) | [View Certificate](https://coursera.org/share/e0a7794370e3308ead347b24327b273d) |
 | [IBM Machine Learning Professional Certificate](https://coursera.org/share/681d7277fe42ffba9ec732b3759ac7c3) | [View Certificate](https://coursera.org/share/681d7277fe42ffba9ec732b3759ac7c3) |
+| [AWS Academy Graduate - Cloud Foundations - Training Badge](https://www.credly.com/badges/cb4757b3-5f88-4923-b15a-e50dd3136094/linked_in_profile) | [View Credential](https://www.credly.com/badges/cb4757b3-5f88-4923-b15a-e50dd3136094/linked_in_profile) |
+| [Introduction to Cybersecurity](https://www.credly.com/badges/02114ef2-4606-4963-9186-a66ce5d021de/linked_in_profile) | [View Credential](https://www.credly.com/badges/02114ef2-4606-4963-9186-a66ce5d021de/linked_in_profile) |
+
 
 ---
 
