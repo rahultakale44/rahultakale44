@@ -1,50 +1,45 @@
 <table width="100%">
 <tr>
 
-<td width="50%" align="center" valign="middle">
+<!-- Left Box: Sirf Photo (Full Width) -->
+<td width="42%" align="center" valign="top">
 
-<img src="./Recheck.jpg"
+<img src="./1p.jpeg"
      alt="Rahul Takale"
-     width="590" />
-
-<p>
-<b>AI Engineer · Backend Developer</b>
-</p>
-
-<p>
-<a href="https://rahultakale.vercel.app/">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/rahultakale/">LinkedIn</a> ·
-<a href="mailto:rahultakale698@gmail.com">Email</a>
-</p>
+     width="100%" />
 
 </td>
 
-<td width="68%" valign="middle">
+<!-- Right Box: Top par Title/Links aur uske neeche Bio -->
+<td width="58%" valign="top" style="padding-left: 15px;">
 
 <p>
-I am <b>Rahul Takale</b>, a final-year <b>B.Tech CSE (AI & Analytics)</b>
+<b>AI Engineer · Backend & Database Engineering · Data Analytics & BI</b><br>
+<p>
+<a href="https://www.linkedin.com/in/rahultakale/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rahultakale698@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://rahultakale.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://codolio.com/profile/scholar44"><img src="https://img.shields.io/badge/CODOLIO-1E1E2E?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" /></a>
+<a href="https://medium.com/@rahultakale08"><img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+</p>
+</p>
+
+<hr>
+
+<p>
+Hi, I am <b>Rahul Takale</b>, a final-year <b>B.Tech CSE (AI & Analytics)</b>
 student at <b>MIT Art, Design & Technology University, Pune</b>.
 I build software across <b>backend engineering, databases, AI/ML applications,
 and data analytics</b>, with an interest in understanding systems beyond
-high-level abstractions.
+high-level abstractions. My current work focuses on <b>Java/Spring Boot, Python, SQL, Power BI,
+REST APIs, databases, machine learning, and full-stack application development.
 </p>
-
-<p>
-My current work focuses on <b>Java/Spring Boot, Python, SQL, Power BI,
-REST APIs, databases, machine learning, and full-stack application development.</b>
-</p>
-
-<blockquote>
-<b>I like understanding what happens underneath the abstraction and then building it myself.</b>
-</blockquote>
-
 </td>
 
 </tr>
 </table>
 
 <hr>
-
 <table width="100%">
 <tr>
 
@@ -162,18 +157,17 @@ REST APIs, databases, machine learning, and full-stack application development.<
 
 ---
 
-<p align="center">
-  <b>Thank you for taking the time to explore my work.</b><br>
-  <sub>Every project is an opportunity to understand deeper, build better, and keep improving.</sub>
-</p>
-
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="middle">
+<h3>Thank you for taking the time to explore my work.</h3>
+<p><i>"Winners Win SON!!"</i><br><b> Andrew Tate</b></p>
+<p><i>"Stay Hard!!"</i><br><b> David Goggins</b></p>
 <br>
-
-<p align="center">
-  <i>"Stay Hard."</i><br>
-  <b>David Goggins</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahultakale44&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
+</td>
+</tr>
+</table>
