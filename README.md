@@ -15,7 +15,7 @@
 
 <p>
 <br>
-<b>AI Engineer · Backend & Database Engineering · Data Analytics & BI</b><br>
+<b>&nbsp;AI Engineer · Backend & Database Engineering · Data Analytics & BI</b><br>
 <p>
 <a href="https://www.linkedin.com/in/rahultakale/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:rahultakale698@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
