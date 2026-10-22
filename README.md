@@ -163,10 +163,10 @@ high-level abstractions.
 ### Thank you for taking the time to explore my work.
 
 > *"Winners Win SON!!"*
-> **~ Andrew Tate**
+> **~Andrew Tate**
 >
 > *"Stay Hard!!"*
-> **~ David Goggins**
+> **~David Goggins**
 
 <img src="https://komarev.com/ghpvc/?username=rahultakale44&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
